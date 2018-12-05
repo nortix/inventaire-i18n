@@ -4,10 +4,14 @@ set -eu
 mkdir -p ./dist/client
 
 echo "building: en";
-./scripts/build/build_client_en > "./dist/client/en.json"
+./scripts/build/build_client_en > "./dist/client/en.json" &
 
 for lang in $(cat ./assets/translated_langs);
 do
   echo "building: $lang";
-  ./scripts/build/build_client_translated_lang $lang > "./dist/client/${lang}.json"
+  ./scripts/build/build_client_translated_lang $lang > "./dist/client/${lang}.json" &
 done
+
+wait
+
+echo 'build_client: done'
