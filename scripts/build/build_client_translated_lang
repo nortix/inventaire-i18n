@@ -1,0 +1,10 @@
+#!/usr/bin/env coffee
+[ lang ] = process.argv.slice 2
+unless lang? then throw new Error('missing lang')
+
+fullkeyValues = require('./lib/get_lang_fullkey_values')(lang)
+shortkeyValues = require('./lib/get_lang_shortkey_values')(lang)
+wikidataValues = require('./lib/get_lang_wikidata_values')(lang)
+
+distValues = Object.assign {}, fullkeyValues, shortkeyValues, wikidataValues
+console.log JSON.stringify(distValues, null, 2)

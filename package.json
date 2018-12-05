@@ -1,0 +1,25 @@
+{
+  "name": "inventaire-i18n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build-client": "./scripts/build/build_client",
+    "build-emails": "./scripts/build/build_emails",
+    "fetch-translations": "./scripts/fetch/fetch_translations",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluereq": "^2.1.7",
+    "chalk": "^2.4.1",
+    "coffee-script": "^1.12.7",
+    "config": "^3.0.0",
+    "wikidata-cli": "^7.0.2"
+  }
+}

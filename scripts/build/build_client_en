@@ -1,0 +1,12 @@
+#!/usr/bin/env coffee
+convertMarkdown = require './lib/convert_markdown'
+fullkeyValues = require '../../original/fullkey.en.json'
+shortkeyValues = require '../../original/shortkey.en.json'
+wikidataValues = require('./lib/get_lang_wikidata_values')('en')
+
+formattedShortkeyValues = {}
+for key, value of shortkeyValues
+  formattedShortkeyValues[key] = convertMarkdown value
+
+distValues = Object.assign {}, fullkeyValues, formattedShortkeyValues, wikidataValues
+console.log JSON.stringify(distValues, null, 2)

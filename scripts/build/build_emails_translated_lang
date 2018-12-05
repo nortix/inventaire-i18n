@@ -1,0 +1,7 @@
+#!/usr/bin/env coffee
+[ lang ] = process.argv.slice 2
+unless lang? then throw new Error('missing lang')
+fs = require 'fs'
+
+emailValues = require('./lib/get_lang_emails_values')(lang)
+console.log JSON.stringify(emailValues, null, 2)

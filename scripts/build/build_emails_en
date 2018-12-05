@@ -1,0 +1,14 @@
+#!/usr/bin/env coffee
+convertMarkdown = require './lib/convert_markdown'
+emailsValues = require '../../original/emails.en.json'
+enClientDistValues = require "../../dist/client/en.json"
+
+distValues = {}
+for key, value of emailsValues
+  # Borrowing values from the client
+  if value is null
+    distValues[key] = enClientDistValues[key]
+  else
+    distValues[key] = convertMarkdown value
+
+console.log JSON.stringify(distValues, null, 2)

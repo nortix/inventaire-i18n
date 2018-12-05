@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -eu
+
+fetch_resource_translations(){
+  resource=$1;
+  for lang in $(cat ./assets/translated_langs);
+  do
+    echo "fetching: $resource - $lang";
+    ./scripts/fetch_resource_translation $resource $lang > "./translations/${resource}/${lang}.json";
+  done;
+}
+
+fetch_resource_translations 'emails'
+fetch_resource_translations 'fullkey'
+fetch_resource_translations 'shortkey'
+./scripts/fetch_wikidata_translations

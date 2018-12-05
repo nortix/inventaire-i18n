@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+fetch_props(){
+  path="./translations/wikidata/${1}.json"
+  { [ -e "$path" ] && echo "wikidata $1: already fetched" ; } ||
+  { echo "fetching: wikidata - $lang" && ./node_modules/.bin/wd props --lang $1 > $path ; } ;
+}
+
+fetch_props 'en'
+
+for lang in $(cat ./assets/translated_langs);
+do fetch_props $lang;
+done;

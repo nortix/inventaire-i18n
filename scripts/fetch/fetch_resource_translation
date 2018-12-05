@@ -1,0 +1,9 @@
+#!/usr/bin/env coffee
+[ resource, lang ] = process.argv.slice 2
+getTransifexResource = require './lib/get_transifex_resource'
+
+getTransifexResource resource, lang
+.then (translation)-> console.log(JSON.stringify(translation, null, 2))
+.catch (err)->
+  console.error err
+  process.exit 1
