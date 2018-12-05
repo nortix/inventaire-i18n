@@ -10,6 +10,7 @@
     "build-client": "./scripts/build/build_client",
     "build-emails": "./scripts/build/build_emails",
     "fetch-translations": "./scripts/fetch/fetch_translations",
+    "update-dist": "./scripts/update_dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

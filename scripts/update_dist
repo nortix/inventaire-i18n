@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -eu
+
+git checkout master
+git push origin master
+git checkout -B dist
+npm run build-client
+npm run build-emails
+git add --force dist
+git commit -m 'dist: updated'
+git push origin --force dist
+git checkout master
