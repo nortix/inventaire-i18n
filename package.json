@@ -7,6 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
+    "build": "./scripts/build/build",
     "build-client": "./scripts/build/build_client",
     "build-emails": "./scripts/build/build_emails",
     "fetch-translations": "./scripts/fetch/fetch_translations",
