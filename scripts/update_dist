@@ -8,6 +8,7 @@ npm run build
 git add --force dist
 git commit -m 'dist: updated'
 git push origin --force dist
+cp -r dist dist.backup
 git checkout master
-# Repopulate the ./dist directory
-npm run build
+# Recover the ./dist directory
+mv dist.backup dist
