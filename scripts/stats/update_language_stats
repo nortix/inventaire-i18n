@@ -1,0 +1,27 @@
+#!/usr/bin/env coffee
+getLangKeysCount = require './lib/get_lang_keys_count'
+getLangDefaultRegion = require './lib/get_lang_default_region'
+{ active: activeLangs } = require '../../assets/langs'
+{ writeFileSync } = require 'fs'
+
+completionData = {}
+
+for lang in activeLangs
+  completionData[lang] = getLangKeysCount lang
+
+languagesData = {}
+
+{ en: enKeysNum } = completionData
+
+getLangCompletion = (langKeysNum)->
+  completion = Math.round langKeysNum/enKeysNum*100
+  # When keys are deleted in the English version but not yet uploaded,
+  # some language may appear with more than 100% completion
+  return Math.min completion, 100
+
+for lang, keysNum of completionData
+  languagesData[lang] =
+    completion: getLangCompletion keysNum
+    defaultRegion: getLangDefaultRegion lang
+
+writeFileSync './dist/languages_data.json', JSON.stringify(languagesData, null, 2)
