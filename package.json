@@ -10,6 +10,7 @@
     "build": "./scripts/build/build",
     "build-client": "./scripts/build/build_client",
     "build-emails": "./scripts/build/build_emails",
+    "build-transifex-resources": "./scripts/build/build_transifex_resources",
     "fetch-translations": "./scripts/fetch/fetch_translations",
     "update-dist": "./scripts/update_dist",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,6 +23,7 @@
     "chalk": "^2.4.1",
     "coffee-script": "^1.12.7",
     "config": "^3.0.0",
+    "transifexify": "^1.0.6",
     "wikidata-cli": "^7.0.2"
   }
 }
