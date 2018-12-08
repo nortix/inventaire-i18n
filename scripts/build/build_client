@@ -14,4 +14,7 @@ done
 
 wait
 
+rm --force dist/client/*.gz
+gzip --best --keep dist/client/*
+
 echo 'build_client: done'
