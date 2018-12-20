@@ -392,7 +392,6 @@
     "year": "year",
     "month": "month",
     "day": "day",
-    "precise the year only": "precise the year only",
     "ex:": "ex:",
     "select the books you want to add": "select the books you want to add",
     "empty the queue": "empty the queue",
@@ -427,7 +426,6 @@
     "inventaire id": "inventaire id",
     "edition title": "edition title",
     "edition language": "edition language",
-    "precise the day and month": "precise the day and month",
     "refresh Wikidata data": "refresh Wikidata data",
     "work": "work",
     "precise the edition": "precise the edition",
@@ -498,7 +496,6 @@
     "this ISBN was already scanned": "this ISBN was already scanned",
     "this property should at least have one value": "this property should at least have one value",
     "see history on Wikidata": "see history on Wikidata",
-    "homonymes": "homonymes",
     "no value": "no value",
     "make the book's barcode fit in the box": "make the book's barcode fit in the box",
     "need more information": "need more information",
@@ -526,7 +523,6 @@
     "match confirmed by another data source": "match confirmed by another data source",
     "short story": "short story",
     "has no homonym": "has no homonym",
-    "homonyms": "homonyms",
     "search deeper": "search deeper",
     "Can't find what you are searching?": "Can't find what you are searching?",
     "create and go to the author's page": "create and go to the author's page",
@@ -559,5 +555,7 @@
     "editions can't be moved to Wikidata for the moment": "editions can't be moved to Wikidata for the moment",
     "this entity is ready to be imported to Wikidata": "this entity is ready to be imported to Wikidata",
     "isolated works": "isolated works",
-    "special user": "special user"
+    "special user": "special user",
+    "clear": "clear",
+    "no ISBN found": "no ISBN found"
 }
