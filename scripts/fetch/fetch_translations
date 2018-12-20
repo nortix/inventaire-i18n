@@ -6,11 +6,11 @@ fetch_resource_translations(){
   for lang in $(cat ./assets/translated_langs);
   do
     echo "fetching: $resource - $lang";
-    ./scripts/fetch_resource_translation $resource $lang > "./translations/${resource}/${lang}.json";
+    ./scripts/fetch/fetch_resource_translation $resource $lang > "./translations/${resource}/${lang}.json";
   done;
 }
 
 fetch_resource_translations 'emails'
 fetch_resource_translations 'fullkey'
 fetch_resource_translations 'shortkey'
-./scripts/fetch_wikidata_translations
+./scripts/fetch/fetch_wikidata_translations
