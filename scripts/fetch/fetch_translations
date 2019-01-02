@@ -1,12 +1,16 @@
 #!/usr/bin/env bash
 set -eu
 
+grey(){ echo -e "\e[0;30m${@}\e[0;30m" ; }
+green(){ echo -e "\e[0;32m${@}\e[0;30m" ; }
+blue(){ echo -e "\e[0;34m${@}\e[0;30m" ; }
+
 fetch_resource_translations(){
   resource=$1;
   for lang in $(cat ./assets/translated_langs);
   do
-    echo "fetching: $resource - $lang";
-    ./scripts/fetch/fetch_resource_translation $resource $lang > "./translations/${resource}/${lang}.json";
+    grey "fetching: $resource - $lang";
+    ./scripts/fetch/fetch_resource_translation $resource $lang > "./translations/${resource}/${lang}.json" && green "fetched: $resource - $lang" &
   done;
 }
 
@@ -14,3 +18,6 @@ fetch_resource_translations 'emails'
 fetch_resource_translations 'fullkey'
 fetch_resource_translations 'shortkey'
 ./scripts/fetch/fetch_wikidata_translations
+
+wait
+green "done fetching"
