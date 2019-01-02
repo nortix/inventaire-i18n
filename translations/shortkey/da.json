@@ -67,6 +67,7 @@
   "group_update_description": "**%{username}** ændrede beskrivelsen af gruppen **%{groupName}**",
   "group_update_name": "**%{username}** omdøbte gruppen **%{previousValue}** til **%{newValue}**",
   "has_it": "%{username} har den",
+  "homonyms_count": null,
   "how_long": "i hvor lang tid kan %{username} beholde bogen?",
   "how_much": "har I fastlagt en pris?",
   "inventories_activity_summary_notification": "modtag et resumé af, hvad der sker i dit netværk",
@@ -95,7 +96,6 @@
   "main_user_selling": "du sælger den",
   "multi_barcode_scan_tip": null,
   "network_counter_label": "i dit netværk",
-  "new_comment_on_followed_item": "**%{username}** kommenterede på **%{title}**",
   "new_confirmation_email": "en ny bekræftelsesmail er blevet sent: <br> nu skal du bare tjekke din indbakke og klikke på linket i mailen",
   "newsletters_notification": "modtag Inventaires nyhedsbrev",
   "no_transaction": "intet i denne kategori",
@@ -151,6 +151,7 @@
   "transaction_cancel_effects": "Denne diskussion vil så blive arkiveret og bogen vil blive vist som tilgængelig igen.",
   "transaction_cancel_info": "Hvis transaktionen, af utænkelige eller andre årsager ikke fandt sted, kan du aflyse den på den efterfølgende knap.",
   "transaction_finished": "denne transaktion er færdig",
+  "transaction_with": null,
   "translation_completion": "%{completion}% er færdig",
   "tweet_by": "tweet af %{name}",
   "unfriend_confirmation": "er du sikker på at du vil fjerne **%{username}** fra dine venner?",
@@ -174,5 +175,6 @@
   "where_and_when": "hvor og hvornår skal overførslen finde sted?",
   "while_you_are_there_1": "hvad er størst og stærkest, hippopotamus eller en elefant?",
   "wikidata_edit_intro": null,
+  "wikidata_move_intro": null,
   "your_item_was_requested_notification": "en af dine bøger er blevet anmodet"
 }

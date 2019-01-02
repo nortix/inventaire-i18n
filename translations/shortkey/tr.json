@@ -67,6 +67,7 @@
   "group_update_description": "**%{username}**, **%{groupName}** grubunun açıklamalarını değiştirdi",
   "group_update_name": "**%{username}**, **%{previousValue}** grubunun adını **%{newValue}** olarak değiştirdi",
   "has_it": "%{username} buna sahip",
+  "homonyms_count": null,
   "how_long": "%{username}  kitabı ne kadar süreyle alıkoyabilir?",
   "how_much": "Bir bedel kabul ettiniz mi?",
   "inventories_activity_summary_notification": "ağınızda neler oluyor, özetini alın",
@@ -95,7 +96,6 @@
   "main_user_selling": "onu satıyorsun",
   "multi_barcode_scan_tip": null,
   "network_counter_label": "ağınızda",
-  "new_comment_on_followed_item": "**%{username}** , **%{title}** üzerinde yorum yaptı",
   "new_confirmation_email": "yeni bir onay e-postası gönderildi: sadece posta kutunuzu kontrol etmeniz ve e-postadaki bağlantıyı tıklamanız yeterlidir",
   "newsletters_notification": "Inventaire haberlerini al",
   "no_transaction": "bu kategoride bir şey yok",
@@ -151,6 +151,7 @@
   "transaction_cancel_effects": "Bu tartışma daha sonra arşivlenecek ve kitap yine kullanılabilir olarak görüntülenecektir.",
   "transaction_cancel_info": "Herhangi bir nedenle işlem gerçekleşmediyse, buradan iptal edebilirsiniz.",
   "transaction_finished": "bu işlem tamamlandı",
+  "transaction_with": null,
   "translation_completion": "%{completion}% tamamlandı",
   "tweet_by": "%{name} tarafından tweetlendi",
   "unfriend_confirmation": "**%{username}** kişisini arkadaş listenizden silmek istediğinize emin misiniz?",
@@ -174,5 +175,6 @@
   "where_and_when": "Değiş-tokuş nerede ve ne zaman olmalıdır?",
   "while_you_are_there_1": "Hangisi daha güçlü, su aygırı ya da fil?",
   "wikidata_edit_intro": null,
+  "wikidata_move_intro": null,
   "your_item_was_requested_notification": "kitaplarınızdan biri talep edildi"
 }

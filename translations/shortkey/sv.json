@@ -67,6 +67,7 @@
   "group_update_description": "**%{username}** ändrade beskrivningen på grupp **%{groupName}**",
   "group_update_name": "**%{username}** ändrade namn på grupp **%{previousValue}** till **%{newValue}**",
   "has_it": "%{username} har den",
+  "homonyms_count": null,
   "how_long": null,
   "how_much": null,
   "inventories_activity_summary_notification": "erhåll en sammanfattning av vad som nyligen hänt i ditt nätverk",
@@ -95,7 +96,6 @@
   "main_user_selling": null,
   "multi_barcode_scan_tip": null,
   "network_counter_label": "i ditt nätverk",
-  "new_comment_on_followed_item": null,
   "new_confirmation_email": null,
   "newsletters_notification": "erhåll Inventaires nyhetsbrev",
   "no_transaction": "Inget i denna kategori",
@@ -151,6 +151,7 @@
   "transaction_cancel_effects": null,
   "transaction_cancel_info": null,
   "transaction_finished": null,
+  "transaction_with": null,
   "translation_completion": "%{completion}% complete",
   "tweet_by": "tweet av %{name}",
   "unfriend_confirmation": "är du säker att du verkligen vill radera **%{username}** från din vänner?",
@@ -174,5 +175,6 @@
   "where_and_when": null,
   "while_you_are_there_1": "vilken är starkast, noshörningen eller elefanten?",
   "wikidata_edit_intro": null,
+  "wikidata_move_intro": null,
   "your_item_was_requested_notification": "en av dina böcker är efterfrågad"
 }

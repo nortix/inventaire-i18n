@@ -67,6 +67,7 @@
   "group_update_description": "**%{username}**heeft de beschrijving van de groep veranderd naar  **%{groupName}**",
   "group_update_name": "**%{username}** heeft de groep hernoemd van **%{previousValue}** naar **%{newValue}**",
   "has_it": "%{username} heeft het",
+  "homonyms_count": null,
   "how_long": "Hoe lang mag %{username} het boek houden?",
   "how_much": "Hebben jullie een prijs vastgelegd?",
   "inventories_activity_summary_notification": "ontvang de samenvatting van wat er in je netwerk is gebeurd",
@@ -95,7 +96,6 @@
   "main_user_selling": "jij verkoopt het",
   "multi_barcode_scan_tip": null,
   "network_counter_label": "in je netwerk",
-  "new_comment_on_followed_item": "**%{username}** heeft een reactie geplaatst op **%{title}**",
   "new_confirmation_email": "een nieuwe bevestigings e-mail werd verstuurd: <br> nu moet je enkel nog je mailbox checken en de link in de e-mail aanklikken",
   "newsletters_notification": "ontvang Inventaire's nieuwsbrieven",
   "no_transaction": "niets in deze categorie",
@@ -151,6 +151,7 @@
   "transaction_cancel_effects": "De discussie wordt dan gearchiveerd en het boek zal weer op beschikbaar worden gezet.",
   "transaction_cancel_info": "Als voor welke reden dan ook de transactie niet gebeurde kan je die met onderstaande knop annuleren.",
   "transaction_finished": "deze transactie is afgewerkt",
+  "transaction_with": null,
   "translation_completion": "%{completion}% klaar",
   "tweet_by": "tweet van %{name}",
   "unfriend_confirmation": "Wil je echt **%{username}** van je vriendenlijst verwijderen?\n",
@@ -174,5 +175,6 @@
   "where_and_when": "Waar en wanneer zou de uitwisseling moeten gebeuren?",
   "while_you_are_there_1": "Welke is de sterkste: een nijlpaard of een olifant?",
   "wikidata_edit_intro": null,
+  "wikidata_move_intro": null,
   "your_item_was_requested_notification": "een van je boeken is aangevraagd geweest"
 }

@@ -67,6 +67,7 @@
   "group_update_description": null,
   "group_update_name": null,
   "has_it": "%{username}-এর কাছে এটি আছে",
+  "homonyms_count": null,
   "how_long": null,
   "how_much": null,
   "inventories_activity_summary_notification": null,
@@ -95,7 +96,6 @@
   "main_user_selling": "আপনি এটি বিক্রি করছেন",
   "multi_barcode_scan_tip": null,
   "network_counter_label": null,
-  "new_comment_on_followed_item": "**%{username}** **%{title}**-এর ওপর মন্তব্য করেছেন",
   "new_confirmation_email": null,
   "newsletters_notification": null,
   "no_transaction": null,
@@ -151,6 +151,7 @@
   "transaction_cancel_effects": null,
   "transaction_cancel_info": null,
   "transaction_finished": null,
+  "transaction_with": null,
   "translation_completion": null,
   "tweet_by": null,
   "unfriend_confirmation": null,
@@ -174,5 +175,6 @@
   "where_and_when": null,
   "while_you_are_there_1": null,
   "wikidata_edit_intro": null,
+  "wikidata_move_intro": null,
   "your_item_was_requested_notification": null
 }

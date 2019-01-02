@@ -67,6 +67,7 @@
   "group_update_description": "**%{username}**さんがグループ**%{groupName}** の説明を変更しました",
   "group_update_name": "**%{username}** さんがグループ名を**%{previousValue}** から**%{newValue}** に変更しました",
   "has_it": "%{username} さんも持っています",
+  "homonyms_count": null,
   "how_long": "%{username} さんはその本をどれだけの間保管できますか？",
   "how_much": "価格には同意済みですか？",
   "inventories_activity_summary_notification": "あなたのネットワークで起きたことのサマリを受け取る",
@@ -95,7 +96,6 @@
   "main_user_selling": "あなたが販売中",
   "multi_barcode_scan_tip": null,
   "network_counter_label": "あなたのネットワーク内",
-  "new_comment_on_followed_item": "**%{username}** さんが**%{title}** についてコメントしました",
   "new_confirmation_email": "新しい確認メールが送信されました：<br> メールボックスをチェックしてメールにあるリンクをクリックしてください",
   "newsletters_notification": "Inventaire のニューズレターを受け取る",
   "no_transaction": "このカテゴリは空です",
@@ -151,6 +151,7 @@
   "transaction_cancel_effects": "この議論はいったんアーカイブされ、本は利用可能になった時に再表示されます。",
   "transaction_cancel_info": "何らかの理由で取引が始まらない場合は、この後のボタンでキャンセルできます。",
   "transaction_finished": "この取引は完了です",
+  "transaction_with": null,
   "translation_completion": "%{completion}% 完了",
   "tweet_by": "%{name} さんのツイート",
   "unfriend_confirmation": "本当に**%{username}** さんを友達から削除しますか？",
@@ -174,5 +175,6 @@
   "where_and_when": "交換はいつどこで行われますか？",
   "while_you_are_there_1": "カバとゾウではどちらが強いですか？",
   "wikidata_edit_intro": null,
+  "wikidata_move_intro": null,
   "your_item_was_requested_notification": "あなたの本がリクエストされた"
 }

@@ -67,6 +67,7 @@
   "group_update_description": "**%{username}** hat die Beschreibung der Gruppe **%{groupName}** geändert",
   "group_update_name": "**%{username}** hat die Gruppe **%{previousValue}** in **%{newValue}** umbenannt",
   "has_it": "%{username} hat es",
+  "homonyms_count": null,
   "how_long": "Wie lange %{username} das Buch behalten kann.",
   "how_much": "Habt ihr euch auf einen Preis geeinigt?",
   "inventories_activity_summary_notification": "erhalte die Zusammenfassung von allem, was in Deinem Netzwerk passiert ist",
@@ -95,7 +96,6 @@
   "main_user_selling": "Du verkaufst es",
   "multi_barcode_scan_tip": "Du kannst mehrere Barcodes scannen, bevor Du mehrere Bücher mit einem validierst",
   "network_counter_label": "in Deinem Netzwerk",
-  "new_comment_on_followed_item": "**%{username}** hat **%{title}** kommentiert",
   "new_confirmation_email": "eine neue Bestätigungs-E-Mail wurde versendet an: <br> jetzt musst du nur noch deinen Posteingang überprüfen und den Link in der Mail klicken",
   "newsletters_notification": "erhalte Inventaires Newsletter ",
   "no_transaction": "nichts in dieser Kategorie",
@@ -151,6 +151,7 @@
   "transaction_cancel_effects": "Diese Diskussion wird dann archiviert und das Buch wird wieder als verfügbar angezeigt.",
   "transaction_cancel_info": "Sollte die Transaktion aus irgendeinem Grund nicht stattgefunden haben, kannst du sie mit dem folgenden Button abbrechen.",
   "transaction_finished": "diese Transaktion ist abgeschlossen",
+  "transaction_with": null,
   "translation_completion": "%{completion}% vollständig",
   "tweet_by": "tweet von %{name}",
   "unfriend_confirmation": "willst Du wirklich **%{username}** aus Deiner Freundesliste entfernen?",
@@ -174,5 +175,6 @@
   "where_and_when": "Wo und wann die Übergabe stattfinden soll?",
   "while_you_are_there_1": "wer ist stärker, ein Nilpferd oder ein Elefant?",
   "wikidata_edit_intro": null,
+  "wikidata_move_intro": null,
   "your_item_was_requested_notification": "eines deiner Bücher wurde angefragt"
 }
