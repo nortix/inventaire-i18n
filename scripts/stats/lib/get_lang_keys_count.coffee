@@ -1,20 +1,35 @@
-sections = [ 'emails',  'shortkey',  'fullkey',  'wikidata' ]
+transifexResources = [ 'emails',  'shortkey',  'fullkey' ]
+wikidataPropertiesList = require '../../../original/wikidata.properties_list'
+pick = require 'lodash.pick'
 
 module.exports = (lang)->
-  sections
+  translatedResourcesCount = getResourcesTranslatedCount lang
+  wikidataTranslatedPropertiesCount = countTranslatedWikidataProperties lang
+  return translatedResourcesCount + wikidataTranslatedPropertiesCount
+
+getResourcesTranslatedCount = (lang)->
+  transifexResources
   .map getCount(lang)
   .reduce sum, 0
 
-getCount = (lang)-> (section)->
-  if lang is 'en' and section isnt 'wikidata'
-    data = require "../../../original/#{section}.en.json"
+getCount = (lang)-> (resource)->
+  if lang is 'en'
+    data = require "../../../original/#{resource}.en.json"
   else
-    data = require "../../../translations/#{section}/#{lang}.json"
+    data = require "../../../translations/#{resource}/#{lang}.json"
 
-  return Object.values data
+  return nonEmptyStringValuesCount data
+
+sum = (total, next)-> total + next
+
+countTranslatedWikidataProperties = (lang)->
+  data = require "../../../translations/wikidata/#{lang}.json"
+  usedProperties = pick data, wikidataPropertiesList
+  return nonEmptyStringValuesCount usedProperties
+
+nonEmptyStringValuesCount = (obj)->
+  return Object.values(obj)
   .filter isNonEmptyString
   .length
 
 isNonEmptyString = (str)-> typeof str is 'string' and str.length > 0
-
-sum = (total, next)-> total + next
