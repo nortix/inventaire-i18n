@@ -32,6 +32,7 @@ module.exports = [
   'P957'
   'P1066'
   'P1104'
+  'P1433'
   'P1545'
   'P1680'
   'P2002'
@@ -41,6 +42,7 @@ module.exports = [
   'P2679'
   'P2680'
   'P4033'
+  'P6338'
 ]
 
 # properties with customized labels are treated as fullkey:
