@@ -557,5 +557,11 @@
     "isolated works": "isolated works",
     "special user": "special user",
     "clear": "clear",
-    "no ISBN found": "no ISBN found"
+    "no ISBN found": "no ISBN found",
+    "sources": "sources",
+    "merge & deduplicate works": "merge & deduplicate works",
+    "illustrators": "illustrators",
+    "colorists": "colorists",
+    "return to the series' page": "return to the series' page",
+    "manga series": "manga series"
 }
