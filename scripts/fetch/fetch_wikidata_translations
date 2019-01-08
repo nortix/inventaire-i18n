@@ -15,3 +15,6 @@ fetch_props 'en'
 for lang in $(cat ./assets/translated_langs);
 do fetch_props $lang;
 done;
+
+wait
+echo 'done fetching wikidata translations'
