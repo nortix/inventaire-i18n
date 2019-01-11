@@ -176,5 +176,6 @@
     "offline_help": "the server can't be reached: please retry whatever you where doing once back online",
     "any_isbn_text_file": "any text file containing [ISBN](https://en.wikipedia.org/wiki/ISBN)s",
     "homonyms_count": "%{smart_count} homonym |||| %{smart_count} homonyms",
-    "transaction_with": "transaction with %{username}"
+    "transaction_with": "transaction with %{username}",
+    "title_matches_serie_label_tip": "no need to re-include the [serie](%{pathname}) title or the volume number"
 }
