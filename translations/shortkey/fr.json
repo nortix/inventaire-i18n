@@ -145,6 +145,7 @@
   "title_exchanges_layout": "les messages que vous avez envoyés ou reçus à propos de dons, prêts ou ventes de livre",
   "title_last_items": "derniers livres ajoutés",
   "title_map_layout": "livres dans le coin",
+  "title_matches_serie_label_tip": "pas besoin de re-mentionner le titre de la [série]({%pathname}) ou le numéro du tome",
   "title_network_layout": "amis & groupes",
   "title_networt_layout": "connectez-vous à vos amis et à vos communautés pour voir leurs inventaires",
   "transaction_cancel_confirmation": "Êtes-vous sûr de vouloir annuler cette transaction ? ",

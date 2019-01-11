@@ -145,6 +145,7 @@
   "title_exchanges_layout": "beskeder du har sent eller modtaget om at give væk, låne, udlåne eller sælge bøger",
   "title_last_items": "seneste bøger tilføjet",
   "title_map_layout": "bøger i nærheden",
+  "title_matches_serie_label_tip": null,
   "title_network_layout": "venner og grupper",
   "title_networt_layout": "slut dig til dine venner og fællesskaber for at se deres bøger",
   "transaction_cancel_confirmation": "er du sikker på du vil afbestille denne transaktion",
