@@ -406,7 +406,6 @@
     "display more": "display more",
     "comic book series": "comic book series",
     "add a work to this serie": "add a work to this serie",
-    "signal an error": "signal an error",
     "merge": "merge",
     "history": "history",
     "P629": "edition of",
@@ -563,5 +562,8 @@
     "illustrators": "illustrators",
     "colorists": "colorists",
     "return to the series' page": "return to the series' page",
-    "manga series": "manga series"
+    "manga series": "manga series",
+    "suggest merge": "suggest merge",
+    "suggest deletion": "suggest deletion",
+    "report an error": "report an error"
 }
