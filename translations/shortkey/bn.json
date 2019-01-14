@@ -35,7 +35,7 @@
   "donate_intro": null,
   "edit_entity": null,
   "email_confirmation_error": null,
-  "email_confirmation_error_button": null,
+  "email_confirmation_error_button": "ইমেইল নিশ্চিত করার জন্য একটি নতুন ইমেইল পাঠান",
   "email_confirmation_offline_error": null,
   "email_confirmation_success": "ইমেইল সফলভাবে নিশ্চিত করা হয়েছে, ধন্যবাদ!",
   "email_invitation_sent": null,
