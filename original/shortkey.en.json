@@ -177,5 +177,11 @@
     "any_isbn_text_file": "any text file containing [ISBN](https://en.wikipedia.org/wiki/ISBN)s",
     "homonyms_count": "%{smart_count} homonym |||| %{smart_count} homonyms",
     "transaction_with": "transaction with %{username}",
-    "title_matches_serie_label_tip": "no need to re-include the [serie](%{pathname}) title or the volume number"
+    "title_matches_serie_label_tip": "no need to re-include the [serie](%{pathname}) title or the volume number",
+    "x_seconds_ago": "%{smart_count} second ago |||| %{smart_count} seconds ago",
+    "x_minutes_ago": "%{smart_count} minute ago |||| %{smart_count} minutes ago",
+    "x_hours_ago": "%{smart_count} hour ago |||| %{smart_count} hours ago",
+    "x_days_ago": "%{smart_count} day ago |||| %{smart_count} days ago",
+    "x_months_ago": "%{smart_count} month ago |||| %{smart_count} months ago",
+    "x_years_ago": "%{smart_count} year ago |||| %{smart_count} years ago"
 }

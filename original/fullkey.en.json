@@ -565,5 +565,18 @@
     "manga series": "manga series",
     "suggest merge": "suggest merge",
     "suggest deletion": "suggest deletion",
-    "report an error": "report an error"
+    "report an error": "report an error",
+    "reset password token expired: request a new token": "reset password token expired: request a new token",
+    "signal an error": "signal an error",
+    "items": "items",
+    "title pattern": "title pattern",
+    "volume": "volume",
+    "number": "number",
+    "create all placeholders": "create all placeholders",
+    "parts suggestions": "parts suggestions",
+    "add to the serie": "add to the serie",
+    "the filter can be a regular expression": "the filter can be a regular expression",
+    "move the serie to Wikidata to be able to add this work": "move the serie to Wikidata to be able to add this work",
+    "add books": "add books",
+    "just now": "just now"
 }
