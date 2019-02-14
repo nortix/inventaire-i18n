@@ -127,6 +127,7 @@
   "project_contributors_credits": null,
   "read_more_on_wikipedia": "もっと読むかウィキペディアで編集する",
   "refresh_wikidata_data": "このエンティティに関連する内容をウィキデータ状で更新した場合は、このボタンを使ってinventaire.io に更新データを取得するように依頼できます",
+  "report_an_error_in_entity_data": "修正の仕方が分からない場合はデータ内のエラーを知らせてください",
   "request_new_token": "パスワードの再リセットをリクエスト",
   "scanner_disabled_tip_2": "カメラと[モダン・ブラウザ](https://www.mozilla.org/firefox) が必要です",
   "see_all_work_editions": null,
@@ -134,7 +135,6 @@
   "selling_personalized": "%{username} さんが販売中",
   "selling_personalized_strong": "**%{username}** さんが販売中",
   "series_singular": null,
-  "signal_an_error_in_entity_data": "修正の仕方が分からない場合はデータ内のエラーを知らせてください",
   "slow_search_message": "初回検索時は新しいデータを取得していますので少し時間が掛かるかもしれません。パイオニアとしての参加ありがとうございます！",
   "switch_to_lang": "言語を %{language} に切替",
   "title_add_layout": "本を自分の書庫に追加",
@@ -177,5 +177,11 @@
   "while_you_are_there_1": "カバとゾウではどちらが強いですか？",
   "wikidata_edit_intro": null,
   "wikidata_move_intro": null,
+  "x_days_ago": null,
+  "x_hours_ago": null,
+  "x_minutes_ago": null,
+  "x_months_ago": null,
+  "x_seconds_ago": null,
+  "x_years_ago": null,
   "your_item_was_requested_notification": "あなたの本がリクエストされた"
 }

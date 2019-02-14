@@ -127,6 +127,7 @@
   "project_contributors_credits": null,
   "read_more_on_wikipedia": "উইকিপিডিয়ায় আরও পড়ুন বা সম্পাদনা করুন",
   "refresh_wikidata_data": null,
+  "report_an_error_in_entity_data": null,
   "request_new_token": null,
   "scanner_disabled_tip_2": null,
   "see_all_work_editions": null,
@@ -134,7 +135,6 @@
   "selling_personalized": "%{username} এটি বিক্রি করছেন",
   "selling_personalized_strong": "**%{username}** এটি বিক্রি করছেন",
   "series_singular": null,
-  "signal_an_error_in_entity_data": null,
   "slow_search_message": null,
   "switch_to_lang": null,
   "title_add_layout": null,
@@ -177,5 +177,11 @@
   "while_you_are_there_1": null,
   "wikidata_edit_intro": null,
   "wikidata_move_intro": null,
+  "x_days_ago": null,
+  "x_hours_ago": null,
+  "x_minutes_ago": null,
+  "x_months_ago": null,
+  "x_seconds_ago": null,
+  "x_years_ago": null,
   "your_item_was_requested_notification": null
 }

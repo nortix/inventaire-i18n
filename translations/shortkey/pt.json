@@ -127,6 +127,7 @@
   "project_contributors_credits": null,
   "read_more_on_wikipedia": null,
   "refresh_wikidata_data": null,
+  "report_an_error_in_entity_data": null,
   "request_new_token": null,
   "scanner_disabled_tip_2": null,
   "see_all_work_editions": null,
@@ -134,7 +135,6 @@
   "selling_personalized": null,
   "selling_personalized_strong": null,
   "series_singular": null,
-  "signal_an_error_in_entity_data": null,
   "slow_search_message": null,
   "switch_to_lang": null,
   "title_add_layout": null,
@@ -177,5 +177,11 @@
   "while_you_are_there_1": null,
   "wikidata_edit_intro": null,
   "wikidata_move_intro": null,
+  "x_days_ago": "há %{smart_count} dia |||| há %{smart_count} dias",
+  "x_hours_ago": "há %{smart_count} hora |||| há %{smart_count} horas",
+  "x_minutes_ago": "há %{smart_count} minuto |||| há %{smart_count} minutos",
+  "x_months_ago": "há %{smart_count} mês |||| há %{smart_count} meses",
+  "x_seconds_ago": "há %{smart_count} segundos |||| há %{smart_count} segundos",
+  "x_years_ago": "há %{smart_count} ano |||| há %{smart_count} anos",
   "your_item_was_requested_notification": null
 }

@@ -127,6 +127,7 @@
   "project_contributors_credits": null,
   "read_more_on_wikipedia": "Vikipedi'de daha fazlasını okuyun veya düzenleyin",
   "refresh_wikidata_data": "Bu öğe ilgili Wikidata'da değişiklikler yapmışsanız, inventaire.io'ya güncellenmiş verileri almak için bu düğmeyi kullanabilirsiniz.",
+  "report_an_error_in_entity_data": "Nasıl düzeltileceğini bilmiyorsanız, verilerde bir hata sinyali verin",
   "request_new_token": "şifrenizi sıfırlamak için yeni bir istekte bulunun",
   "scanner_disabled_tip_2": "Bir kamera ve bir [modern tarayıcı](https://www.mozilla.org/firefox) gerektirir",
   "see_all_work_editions": null,
@@ -134,7 +135,6 @@
   "selling_personalized": "%{username} bunu satıyor",
   "selling_personalized_strong": "**%{username}** bunu satıyor",
   "series_singular": null,
-  "signal_an_error_in_entity_data": "Nasıl düzeltileceğini bilmiyorsanız, verilerde bir hata sinyali verin",
   "slow_search_message": "İşlem biraz uzun sürerse, muhtemelen bu aramayı yapan ilk sizsiniz, yeni veriler getirmeliyiz: öncülük ettiğiniz için teşekkür ederiz!",
   "switch_to_lang": "dili %{language} olarak değiştir",
   "title_add_layout": "envanterinize bir kitap ekleyin",
@@ -177,5 +177,11 @@
   "while_you_are_there_1": "Hangisi daha güçlü, su aygırı ya da fil?",
   "wikidata_edit_intro": null,
   "wikidata_move_intro": null,
+  "x_days_ago": "%{smart_count} gün önce |||| %{smart_count} gün önce",
+  "x_hours_ago": "%{smart_count} saat önce |||| %{smart_count} saat önce",
+  "x_minutes_ago": "%{smart_count} dakika önce |||| %{smart_count} dakika önce",
+  "x_months_ago": "%{smart_count} ay önce |||| %{smart_count} ay önce",
+  "x_seconds_ago": "%{smart_count} saniye önce |||| %{smart_count} saniye önce",
+  "x_years_ago": "%{smart_count} yıl önce |||| %{smart_count} yıl önce",
   "your_item_was_requested_notification": "kitaplarınızdan biri talep edildi"
 }

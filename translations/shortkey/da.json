@@ -127,6 +127,7 @@
   "project_contributors_credits": null,
   "read_more_on_wikipedia": "læs mere eller redigér på Wikipedia",
   "refresh_wikidata_data": "Hvs du har modificeret denne enhed på Wikidata, kan du bruge denne knap til at få inventaire.io til at hente de updaterede data",
+  "report_an_error_in_entity_data": "indikér en fejl i dataene, hvis du ikke ved, hvordan du fikser det",
   "request_new_token": "anmod om at nulstille din kode igen",
   "scanner_disabled_tip_2": "kræver et kamera og en [moderne browser](https://www.mozilla.org/firefox)",
   "see_all_work_editions": "se alle udgaver af %{label}",
@@ -134,7 +135,6 @@
   "selling_personalized": "%{username} sælger den",
   "selling_personalized_strong": "**%{username}** sælger den",
   "series_singular": "serier",
-  "signal_an_error_in_entity_data": "indikér en fejl i dataene, hvis du ikke ved, hvordan du fikser det",
   "slow_search_message": "Hvis det tager sin tid, lidt længere end din tid, er det formentlig fordi du er den første til at lave denne søgning. Vi er nødt til at hente nye data: tak for at være en pioner!",
   "switch_to_lang": "skift sprog til %{language}",
   "title_add_layout": "tilføj en bog til din beholdning",
@@ -177,5 +177,11 @@
   "while_you_are_there_1": "hvad er størst og stærkest, hippopotamus eller en elefant?",
   "wikidata_edit_intro": null,
   "wikidata_move_intro": null,
+  "x_days_ago": "%{smart_count} dag siden |||| %{smart_count} dage siden",
+  "x_hours_ago": "%{smart_count} time siden |||| %{smart_count} timer siden",
+  "x_minutes_ago": "%{smart_count} minut siden |||| %{smart_count} minutter siden",
+  "x_months_ago": "%{smart_count} måned siden |||| %{smart_count} måneder siden",
+  "x_seconds_ago": "%{smart_count} sekunder siden |||| %{smart_count} sekunder siden",
+  "x_years_ago": "%{smart_count} år siden |||| %{smart_count} år siden",
   "your_item_was_requested_notification": "en af dine bøger er blevet anmodet"
 }

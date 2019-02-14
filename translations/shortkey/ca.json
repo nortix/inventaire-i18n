@@ -127,6 +127,7 @@
   "project_contributors_credits": "tota la gent meravellosa<br>[millorant les dades](https://wiki.inventaire.io/wiki/Data), aquí o a [Wikidata](https://wikidata.org),<br>[dissenyant el futur del projecte](http://roadmap.inventaire.io),<br>[contribuint amb codi o amb qüestions tècniques](http://git.inventaire.io),<br>[enriquint la Wiki](https://wiki.inventaire.io),<br>[ajudant traduint](http://translate.inventaire.io)<br>**Moltíssimes gràcies a tots vosaltres que esteu fent créixer aquest projecte cada dia!**",
   "read_more_on_wikipedia": "Llegeix més o edita a la Viquipèdia",
   "refresh_wikidata_data": "si has fet modificacions a Wikidata relacionat amb aquesta entitat, pots fer servir aquest botó per demanar a inventaire.io que obtingui les actualitzacions",
+  "report_an_error_in_entity_data": null,
   "request_new_token": null,
   "scanner_disabled_tip_2": "requereix una càmera i un [navegador modern](https://www.mozilla.org/firefox)",
   "see_all_work_editions": "mira totes les edicions de %{label}",
@@ -134,7 +135,6 @@
   "selling_personalized": null,
   "selling_personalized_strong": null,
   "series_singular": "sèrie",
-  "signal_an_error_in_entity_data": null,
   "slow_search_message": null,
   "switch_to_lang": "canvia l'idioma a %{language}",
   "title_add_layout": "afegeix un llibre al teu inventari",
@@ -177,5 +177,11 @@
   "while_you_are_there_1": null,
   "wikidata_edit_intro": null,
   "wikidata_move_intro": null,
+  "x_days_ago": "fa %{smart_count} dia |||| fa %{smart_count} dies",
+  "x_hours_ago": "fa %{smart_count} hora |||| fa %{smart_count} hores",
+  "x_minutes_ago": "fa %{smart_count} minut |||| fa %{smart_count} minuts",
+  "x_months_ago": "fa %{smart_count} mes |||| fa %{smart_count} mesos",
+  "x_seconds_ago": "fa %{smart_count} segons |||| fa %{smart_count} segons",
+  "x_years_ago": "fa %{smart_count} any |||| fa %{smart_count} anys",
   "your_item_was_requested_notification": "un dels teus llibres ha estat demanat"
 }

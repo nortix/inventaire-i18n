@@ -127,6 +127,7 @@
   "project_contributors_credits": "toda la gente maravillosa [mejorando los datos](https://wiki.inventaire.io/wiki/Data), aquí o en [Wikidata](https://wikidata.org), [diseñando el futuro del proyecto](http://roadmap.inventaire.io),[contribuyendo programando o con conocimientos técnicos](http://git.inventaire.io), [enriqueciendo la Wiki](https://wiki.inventaire.io), [ayudando traduciendo](http://translate.inventaire.io) **¡Muchas gracias a todos los que estáis haciendo crecer este proyecto cada día!**",
   "read_more_on_wikipedia": "Lea más o edite en Wikipedia",
   "refresh_wikidata_data": "si ha realizado modificaciones en Wikidata relacionados a esta entidad, puede utilizar este botón para pedir que inventaire.io busque los datos actualizados",
+  "report_an_error_in_entity_data": "Señale un error en los datos si no sabe como arreglarlo",
   "request_new_token": "Solicitar una nueva oportunidad de reestablecer su contraseña",
   "scanner_disabled_tip_2": "requiere una cámara y un [navegador web moderno](https://www.mozilla.org/firefox)",
   "see_all_work_editions": "ver todas las ediciones de %{label}",
@@ -134,7 +135,6 @@
   "selling_personalized": "%{username} lo está vendiendo",
   "selling_personalized_strong": "**%{username}** lo está vendiendo",
   "series_singular": "serie",
-  "signal_an_error_in_entity_data": "Señale un error en los datos si no sabe como arreglarlo",
   "slow_search_message": "Si se demora mucho, quizás sea por que Usted es la primera persona haciendo esta búsqueda, necesitamos recoger mas datos. Gracias por ser un pionero !",
   "switch_to_lang": "cambiar lenguaje a %{language}",
   "title_add_layout": "Añada un libro a su inventario",
@@ -177,5 +177,11 @@
   "while_you_are_there_1": "Cual es el mas fuerte, el hipo o el elefante ?",
   "wikidata_edit_intro": "Quiso editar el dato **%{label}**, que es parte de [Wikidata](https://wikidata.org), La base de datos colaborativa de la cual inventaire.io recoge la mayor parte de sus informaciones sobre libros, autores, series etc. Contribuir a mejorar Wikidata mejora así inventaire, pero también muchos otros proyectos que usan los mismos datos !",
   "wikidata_move_intro": null,
+  "x_days_ago": "hace %{smart_count} día |||| hace %{smart_count} días",
+  "x_hours_ago": "hace %{smart_count} hora |||| hace %{smart_count} horas",
+  "x_minutes_ago": "hace %{smart_count} minuto |||| hace %{smart_count} minutos",
+  "x_months_ago": "hace %{smart_count} mes |||| hace %{smart_count} meses",
+  "x_seconds_ago": "hace %{smart_count} segundos |||| hace %{smart_count} segundos",
+  "x_years_ago": "hace %{smart_count} año |||| hace %{smart_count} años",
   "your_item_was_requested_notification": "uno de sus libros ha sido solicitado"
 }

@@ -127,6 +127,7 @@
   "project_contributors_credits": null,
   "read_more_on_wikipedia": "Mehr darüber lesen oder editieren auf Wikipedia",
   "refresh_wikidata_data": "wenn du Wikidata zu diesem Eintrag geändert hast, kannst du mit diesem Button inventaire.io bitten, die neuen Daten einzulesen",
+  "report_an_error_in_entity_data": "Melde einen Fehler in den Daten, wenn du nicht weißt wie er zu beheben ist",
   "request_new_token": "frage erneut an, um dein Passwort zurück zu setzen",
   "scanner_disabled_tip_2": "benötigt eine Kamera und einen [modern Browser](https://www.mozilla.org/firefox)",
   "see_all_work_editions": "Zeige all Edtionen von %{label}",
@@ -134,7 +135,6 @@
   "selling_personalized": "%{username} verkauft es",
   "selling_personalized_strong": "**%{username}** verkauft es",
   "series_singular": "Serien",
-  "signal_an_error_in_entity_data": "Melde einen Fehler in den Daten, wenn du nicht weißt wie er zu beheben ist.",
   "slow_search_message": "Wenn es ein bisschen länger dauert, wird diese Suche wahrscheinlich das erste Mal ausgeführt und wir müssen die Daten erst zusammensuchen. Danke für deine Pionierarbeit!",
   "switch_to_lang": "Sprache umschalten auf %{language}",
   "title_add_layout": "ein Buch zu deinem Inventar hinzufügen",
@@ -177,5 +177,11 @@
   "while_you_are_there_1": "wer ist stärker, ein Nilpferd oder ein Elefant?",
   "wikidata_edit_intro": null,
   "wikidata_move_intro": null,
+  "x_days_ago": "vor %{smart_count} Tag |||| vor %{smart_count} Tagen",
+  "x_hours_ago": "vor %{smart_count} Stunde |||| vor %{smart_count} Stunden",
+  "x_minutes_ago": "vor %{smart_count} Minute |||| vor %{smart_count} Minuten",
+  "x_months_ago": "vor %{smart_count} Monat |||| vor %{smart_count} Monaten",
+  "x_seconds_ago": "vor %{smart_count} Sekunde |||| vor %{smart_count} Sekunden",
+  "x_years_ago": "vor %{smart_count} Jahr |||| vor %{smart_count} Jahren",
   "your_item_was_requested_notification": "eines deiner Bücher wurde angefragt"
 }
