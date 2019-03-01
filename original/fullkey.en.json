@@ -228,7 +228,6 @@
     "your friends and communities are your best library": "your friends and communities are your best library",
     "Welcome on Inventaire": "Welcome on Inventaire",
     "Welcome": "Welcome",
-    "you need to be connected to comment": "you need to be connected to comment",
     "you need to be connected to send a friend request": "you need to be connected to send a friend request",
     "emails": "emails",
     "profile": "profile",
@@ -577,5 +576,9 @@
     "the filter can be a regular expression": "the filter can be a regular expression",
     "move the serie to Wikidata to be able to add this work": "move the serie to Wikidata to be able to add this work",
     "add books": "add books",
-    "just now": "just now"
+    "just now": "just now",
+    "create all placeholders": "create all placeholders",
+    "You already have this book in your inventory:": "You already have this book in your inventory:",
+    "your message...": "your message...",
+    "previous": "previous"
 }
