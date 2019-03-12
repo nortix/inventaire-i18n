@@ -1,5 +1,6 @@
 {
-    "destroy_item_text": "Are you sure you want to remove **%{title}?**",
+    "delete_item_confirmation": "Are you sure you want to remove **%{title}** from your inventory?",
+    "delete_items_confirmation": "Are you sure you want to remove those **%{amount}** selected books from your inventory?",
     "add_item_text": "Adding **%{label}** to your inventory",
     "details_placeholder": "you might want to give more details on the item or the transaction",
     "notes_placeholder": "you only will see it",
