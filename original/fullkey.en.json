@@ -566,7 +566,6 @@
     "suggest deletion": "suggest deletion",
     "report an error": "report an error",
     "reset password token expired: request a new token": "reset password token expired: request a new token",
-    "report an error": "report an error",
     "title pattern": "title pattern",
     "volume": "volume",
     "number": "number",
@@ -580,5 +579,7 @@
     "create all placeholders": "create all placeholders",
     "You already have this book in your inventory:": "You already have this book in your inventory:",
     "your message...": "your message...",
-    "previous": "previous"
+    "previous": "previous",
+    "fetching available books...": "fetching available books...",
+    "nothing here": "nothing here"
 }
