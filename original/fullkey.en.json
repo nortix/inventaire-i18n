@@ -91,7 +91,6 @@
     "confirm": "confirm",
     "no item found": "no item found",
     "can't reach the server": "can't reach the server",
-    "public books": "public books",
     "not found": "not found",
     "invalid username": "invalid username",
     "that's already your username": "that's already your username",
@@ -581,5 +580,10 @@
     "your message...": "your message...",
     "previous": "previous",
     "fetching available books...": "fetching available books...",
-    "nothing here": "nothing here"
+    "nothing here": "nothing here",
+    "presentation": "presentation",
+    "visible by": "visible by",
+    "this user didn't add a presentation": "this user didn't add a presentation",
+    "public books": "public books",
+    "listing": "listing"
 }
