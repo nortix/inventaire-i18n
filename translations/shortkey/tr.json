@@ -81,6 +81,7 @@
   "item_request_text_suggestion_selling": "Merhaba %{username}! Bu kitabı satın alabilir miyim?",
   "just_inventorize_it": "hiçbiri (sadece envanterime ekle)",
   "km_away": "%{distance} km uzaklıkta",
+  "km_away_from_you": null,
   "leave_button_disabled": "tek grup yöneticisi siz olduğunuz için, başka bir yönetici atamadan grubu terk edemezsiniz",
   "leave_group_confirmation": " **%{groupName} grubundan ayrılmak** istediğinize emin misiniz ?",
   "leave_group_warning": "daha sonra bu gruba tekrar katılmak isterseniz geri alabilirsiniz, ancak bir yöneticinin onayına ihtiyacınız olacaktır",

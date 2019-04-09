@@ -81,6 +81,7 @@
   "item_request_text_suggestion_selling": "Hej %{username}! Czy mógłbym kupić tę książkę?",
   "just_inventorize_it": null,
   "km_away": "%{distance} km stąd",
+  "km_away_from_you": null,
   "leave_button_disabled": null,
   "leave_group_confirmation": "Czy na pewno chcesz **opuścić grupę %{groupName}**?",
   "leave_group_warning": null,

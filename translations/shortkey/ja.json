@@ -81,6 +81,7 @@
   "item_request_text_suggestion_selling": "%{username}さん、こんにちは！この本を買っても良いですか？",
   "just_inventorize_it": "何もしない(単に自分の書庫に追加)",
   "km_away": "距離：%{distance} km",
+  "km_away_from_you": null,
   "leave_button_disabled": "あなたは唯一のグループ管理者なので、他の管理者を指定しないとこのグループを離脱できません",
   "leave_group_confirmation": "本当に**グループ%{groupName} を離脱**しますか？",
   "leave_group_warning": "グループへの参加をリクエストすることで後から取り消すことができますが、管理者の承認が必要になります",

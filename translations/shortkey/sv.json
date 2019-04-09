@@ -81,6 +81,7 @@
   "item_request_text_suggestion_selling": null,
   "just_inventorize_it": "inget (endast addera till min inventering)",
   "km_away": null,
+  "km_away_from_you": null,
   "leave_button_disabled": "som enda gruppansvarig, så kan du inte lämna gruppen utan att först ange en annan administratör.",
   "leave_group_confirmation": null,
   "leave_group_warning": null,

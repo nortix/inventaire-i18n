@@ -81,6 +81,7 @@
   "item_request_text_suggestion_selling": null,
   "just_inventorize_it": null,
   "km_away": null,
+  "km_away_from_you": null,
   "leave_button_disabled": null,
   "leave_group_confirmation": null,
   "leave_group_warning": null,
