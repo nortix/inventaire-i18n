@@ -183,6 +183,9 @@
     "edit data on Wikidata": "edit data on Wikidata",
     "P364": "original language",
     "P407": "edition language",
+    "P571": "date of foundation",
+    "P576": "date of dissolution",
+    "P921": "main subject",
     "P1476": "original title",
     "P2635": "number of volumes",
     "invalid ISBN": "invalid ISBN",
@@ -585,5 +588,7 @@
     "visible by": "visible by",
     "this user didn't add a presentation": "this user didn't add a presentation",
     "public books": "public books",
-    "listing": "listing"
+    "listing": "listing",
+    "return to the publisher's page": "return to the publisher's page",
+    "subjects": "subjects"
 }
