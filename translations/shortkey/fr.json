@@ -184,6 +184,6 @@
   "x_minutes_ago": "il y a %{smart_count} minute |||| il y a %{smart_count} minutes",
   "x_months_ago": "il y a %{smart_count} mois |||| il y a %{smart_count} mois",
   "x_seconds_ago": "il y a %{smart_count} seconde |||| il y a %{smart_count} secondes",
-  "x_years_ago": "il y a %{smart_count} année |||| il y a %{smart_count} années",
+  "x_years_ago": "il y a %{smart_count} an |||| il y a %{smart_count} ans",
   "your_item_was_requested_notification": "un de vos livres a fait l'objet d'une demande"
 }
