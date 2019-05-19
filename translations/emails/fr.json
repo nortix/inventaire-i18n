@@ -51,7 +51,7 @@
   "reset_password_title": "Mot de passe Inventaire oublié ?",
   "returned": "%{username} a confirmé le bon retour du livre",
   "stop_email_invitations": "Si vous ne souhaitez pas recevoir d'email de notre part, envoyez un email à [stop-emails@inventaire.io](mailto:stop-emails@inventaire.io?subject=Merci%20de%20ne%20plus%20m'envoyer%20d'email&body=Non%20n'insiste%20pas%2C%20%C3%A7a%20n'aurait%20jamais%20march%C3%A9%20entre%20nous.%20Tendrement)",
-  "stop_email_notifications": "[changer les préférences de notifications par email](https://inventaire.io/settings/notifications)",
+  "stop_email_notifications": "[changer les préférences de notifications par email](https://inventaire.io/settings/notifications). Pour toute question, vous pouvez écrire à: [mailto:help@inventaire.io](Cher%20Inventaire%2C%5CnJ%27aurais%20besoin%20de%20votre%20aide%20%3A)",
   "unread_notifications_count": "vous avez **%{smart_count}** [notification non-lue](%{href}) |||| vous avez **%{smart_count}** [notifications non-lues](%{href})",
   "update_on_item_you_requested_button": "répondre",
   "update_on_item_you_requested_subject": "des nouvelles de %{username} à propos du livre [%{title}](%{link})",
