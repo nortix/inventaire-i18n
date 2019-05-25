@@ -136,7 +136,7 @@
   "see_on_website": "voir sur %{website}",
   "selling_personalized": "%{username} le vend",
   "selling_personalized_strong": "**%{username}** le vend",
-  "series_singular": "séries",
+  "series_singular": "série",
   "slow_search_message": "Si cela prend un peu de temps, c'est probablement que vous êtes le premier à faire cette recherche, de nouvelles données doivent aller être cherchées : merci d'être un.e pionnier.ère !",
   "switch_to_lang": "passer en %{language}",
   "title_add_layout": "ajoutez un livre à votre inventaire",

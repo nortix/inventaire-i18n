@@ -136,7 +136,7 @@
   "see_on_website": "se på %{website}",
   "selling_personalized": "%{username} sælger den",
   "selling_personalized_strong": "**%{username}** sælger den",
-  "series_singular": "serier",
+  "series_singular": "serie",
   "slow_search_message": "Hvis det tager sin tid, lidt længere end din tid, er det formentlig fordi du er den første til at lave denne søgning. Vi er nødt til at hente nye data: tak for at være en pioner!",
   "switch_to_lang": "skift sprog til %{language}",
   "title_add_layout": "tilføj en bog til din beholdning",
