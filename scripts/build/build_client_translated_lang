@@ -1,10 +1,16 @@
-#!/usr/bin/env coffee
-[ lang ] = process.argv.slice 2
-unless lang? then throw new Error('missing lang')
+#!/usr/bin/env node
+/*
+ * decaffeinate suggestions:
+ * DS101: Remove unnecessary use of Array.from
+ * DS207: Consider shorter variations of null checks
+ * Full docs: https://github.com/decaffeinate/decaffeinate/blob/master/docs/suggestions.md
+ */
+const [ lang ] = Array.from(process.argv.slice(2));
+if (lang == null) { throw new Error('missing lang'); }
 
-fullkeyValues = require('./lib/get_lang_fullkey_values')(lang)
-shortkeyValues = require('./lib/get_lang_shortkey_values')(lang)
-wikidataValues = require('./lib/get_lang_wikidata_values')(lang)
+const fullkeyValues = require('./lib/get_lang_fullkey_values')(lang);
+const shortkeyValues = require('./lib/get_lang_shortkey_values')(lang);
+const wikidataValues = require('./lib/get_lang_wikidata_values')(lang);
 
-distValues = Object.assign {}, fullkeyValues, shortkeyValues, wikidataValues
-console.log JSON.stringify(distValues, null, 2)
+const distValues = Object.assign({}, fullkeyValues, shortkeyValues, wikidataValues);
+console.log(JSON.stringify(distValues, null, 2));
