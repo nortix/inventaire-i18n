@@ -590,11 +590,13 @@
     "listing": "listing",
     "subjects": "subjects",
     "Welcome to Inventaire": "Welcome to Inventaire",
-    "saving would create a new humans": "saving would create a new humans",
     "saving would create a new author": "saving would create a new author",
     "saving would create a new work": "saving would create a new work",
+    "saving would create a new serie": "saving would create a new serie",
     "saving would create a new publisher": "saving would create a new publisher",
     "specify the edition": "specify the edition",
     "large mode": "large mode",
-    "create all the missing parts": "create all the missing parts"
+    "create all the missing parts": "create all the missing parts",
+    "show descriptions": "show descriptions",
+    "merge selected suggestions": "merge selected suggestions"
 }

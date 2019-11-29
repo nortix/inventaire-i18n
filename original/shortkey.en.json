@@ -185,5 +185,6 @@
     "x_days_ago": "%{smart_count} day ago |||| %{smart_count} days ago",
     "x_months_ago": "%{smart_count} month ago |||| %{smart_count} months ago",
     "x_years_ago": "%{smart_count} year ago |||| %{smart_count} years ago",
-    "km_away_from_you": "%{distance} km away from you"
+    "km_away_from_you": "%{distance} km away from you",
+    "display_mode": "display"
 }
