@@ -1,35 +1,43 @@
-transifexResources = [ 'emails',  'shortkey',  'fullkey' ]
-wikidataPropertiesList = require '../../../original/wikidata.properties_list'
-pick = require 'lodash.pick'
+/*
+ * decaffeinate suggestions:
+ * DS102: Remove unnecessary code created because of implicit returns
+ * Full docs: https://github.com/decaffeinate/decaffeinate/blob/master/docs/suggestions.md
+ */
+const transifexResources = [ 'emails',  'shortkey',  'fullkey' ];
+const wikidataPropertiesList = require('../../../original/wikidata.properties_list');
+const pick = require('lodash.pick');
 
-module.exports = (lang)->
-  translatedResourcesCount = getResourcesTranslatedCount lang
-  wikidataTranslatedPropertiesCount = countTranslatedWikidataProperties lang
-  return translatedResourcesCount + wikidataTranslatedPropertiesCount
+module.exports = function(lang){
+  const translatedResourcesCount = getResourcesTranslatedCount(lang);
+  const wikidataTranslatedPropertiesCount = countTranslatedWikidataProperties(lang);
+  return translatedResourcesCount + wikidataTranslatedPropertiesCount;
+};
 
-getResourcesTranslatedCount = (lang)->
-  transifexResources
-  .map getCount(lang)
-  .reduce sum, 0
+var getResourcesTranslatedCount = lang => transifexResources
+.map(getCount(lang))
+.reduce(sum, 0);
 
-getCount = (lang)-> (resource)->
-  if lang is 'en'
-    data = require "../../../original/#{resource}.en.json"
-  else
-    data = require "../../../translations/#{resource}/#{lang}.json"
+var getCount = lang => (function(resource) {
+  let data;
+  if (lang === 'en') {
+    data = require(`../../../original/${resource}.en.json`);
+  } else {
+    data = require(`../../../translations/${resource}/${lang}.json`);
+  }
 
-  return nonEmptyStringValuesCount data
+  return nonEmptyStringValuesCount(data);
+});
 
-sum = (total, next)-> total + next
+var sum = (total, next) => total + next;
 
-countTranslatedWikidataProperties = (lang)->
-  data = require "../../../translations/wikidata/#{lang}.json"
-  usedProperties = pick data, wikidataPropertiesList
-  return nonEmptyStringValuesCount usedProperties
+var countTranslatedWikidataProperties = function(lang){
+  const data = require(`../../../translations/wikidata/${lang}.json`);
+  const usedProperties = pick(data, wikidataPropertiesList);
+  return nonEmptyStringValuesCount(usedProperties);
+};
 
-nonEmptyStringValuesCount = (obj)->
-  return Object.values(obj)
-  .filter isNonEmptyString
-  .length
+var nonEmptyStringValuesCount = obj => Object.values(obj)
+.filter(isNonEmptyString)
+.length;
 
-isNonEmptyString = (str)-> typeof str is 'string' and str.length > 0
+var isNonEmptyString = str => (typeof str === 'string') && (str.length > 0);

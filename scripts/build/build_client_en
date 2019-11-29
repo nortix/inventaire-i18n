@@ -1,12 +1,14 @@
-#!/usr/bin/env coffee
-convertMarkdown = require './lib/convert_markdown'
-fullkeyValues = require '../../original/fullkey.en.json'
-shortkeyValues = require '../../original/shortkey.en.json'
-wikidataValues = require('./lib/get_lang_wikidata_values')('en')
+#!/usr/bin/env node
+const convertMarkdown = require('./lib/convert_markdown');
+const fullkeyValues = require('../../original/fullkey.en.json');
+const shortkeyValues = require('../../original/shortkey.en.json');
+const wikidataValues = require('./lib/get_lang_wikidata_values')('en');
 
-formattedShortkeyValues = {}
-for key, value of shortkeyValues
-  formattedShortkeyValues[key] = convertMarkdown value
+const formattedShortkeyValues = {};
+for (let key in shortkeyValues) {
+  const value = shortkeyValues[key];
+  formattedShortkeyValues[key] = convertMarkdown(value);
+}
 
-distValues = Object.assign {}, fullkeyValues, formattedShortkeyValues, wikidataValues
-console.log JSON.stringify(distValues, null, 2)
+const distValues = Object.assign({}, fullkeyValues, formattedShortkeyValues, wikidataValues);
+console.log(JSON.stringify(distValues, null, 2));

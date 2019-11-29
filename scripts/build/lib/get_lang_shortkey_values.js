@@ -1,12 +1,15 @@
-convertMarkdown = require './convert_markdown'
-enValues = require '../../../original/shortkey.en.json'
+const convertMarkdown = require('./convert_markdown');
+const enValues = require('../../../original/shortkey.en.json');
 
-module.exports = (lang)->
-  langValues = require "../../../translations/shortkey/#{lang}.json"
-  distValues = {}
+module.exports = function(lang){
+  const langValues = require(`../../../translations/shortkey/${lang}.json`);
+  const distValues = {};
 
-  for key, enValue of enValues
-    langValue = langValues[key]
-    distValues[key] = convertMarkdown(langValue or enValue)
+  for (let key in enValues) {
+    const enValue = enValues[key];
+    const langValue = langValues[key];
+    distValues[key] = convertMarkdown(langValue || enValue);
+  }
 
-  return distValues
+  return distValues;
+};

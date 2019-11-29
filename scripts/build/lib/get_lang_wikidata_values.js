@@ -1,12 +1,14 @@
-propertiesList = require '../../../original/wikidata.properties_list'
-enValues = require "../../../translations/wikidata/en.json"
+const propertiesList = require('../../../original/wikidata.properties_list');
+const enValues = require("../../../translations/wikidata/en.json");
 
-module.exports = (lang)->
-  langValues = require "../../../translations/wikidata/#{lang}.json"
+module.exports = function(lang){
+  const langValues = require(`../../../translations/wikidata/${lang}.json`);
 
-  distValues = {}
+  const distValues = {};
 
-  for prop in propertiesList
-    distValues[prop] = langValues[prop] or enValues[prop]
+  for (let prop of propertiesList) {
+    distValues[prop] = langValues[prop] || enValues[prop];
+  }
 
-  return distValues
+  return distValues;
+};

@@ -1,9 +1,16 @@
-#!/usr/bin/env coffee
-[ resource, lang ] = process.argv.slice 2
-getTransifexResource = require './lib/get_transifex_resource'
+#!/usr/bin/env node
+/*
+ * decaffeinate suggestions:
+ * DS101: Remove unnecessary use of Array.from
+ * DS102: Remove unnecessary code created because of implicit returns
+ * Full docs: https://github.com/decaffeinate/decaffeinate/blob/master/docs/suggestions.md
+ */
+const [ resource, lang ] = Array.from(process.argv.slice(2));
+const getTransifexResource = require('./lib/get_transifex_resource');
 
-getTransifexResource resource, lang
-.then (translation)-> console.log(JSON.stringify(translation, null, 2))
-.catch (err)->
-  console.error err
-  process.exit 1
+getTransifexResource(resource, lang)
+.then(translation => console.log(JSON.stringify(translation, null, 2)))
+.catch(function(err){
+  console.error(err);
+  return process.exit(1);
+});

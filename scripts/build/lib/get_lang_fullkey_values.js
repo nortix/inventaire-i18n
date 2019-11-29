@@ -1,11 +1,14 @@
-enValues = require '../../../original/fullkey.en.json'
+const enValues = require('../../../original/fullkey.en.json');
 
-module.exports = (lang)->
-  langValues = require "../../../translations/fullkey/#{lang}.json"
-  distValues = {}
+module.exports = function(lang){
+  const langValues = require(`../../../translations/fullkey/${lang}.json`);
+  const distValues = {};
 
-  for key, enValue of enValues
-    langValue = langValues[key]
-    distValues[key] = langValue or enValue
+  for (let key in enValues) {
+    const enValue = enValues[key];
+    const langValue = langValues[key];
+    distValues[key] = langValue || enValue;
+  }
 
-  return distValues
+  return distValues;
+};
