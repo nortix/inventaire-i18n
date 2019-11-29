@@ -3,4 +3,4 @@ module.exports = {
     username: 'your_transifex_username',
     password: 'your_transifex_password'
   }
-};
+}

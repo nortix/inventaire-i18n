@@ -5,6 +5,6 @@ const specialCaseRegions = {
   ja: 'ja_JP',
   no: 'nb_NO',
   sv: 'sv_SE'
-};
+}
 
-module.exports = lang => specialCaseRegions[lang] || `${lang}_${lang.toUpperCase()}`;
+module.exports = lang => specialCaseRegions[lang] || `${lang}_${lang.toUpperCase()}`
