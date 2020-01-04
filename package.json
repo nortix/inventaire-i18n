@@ -1,7 +1,7 @@
 {
   "name": "inventaire-i18n",
   "version": "1.0.0",
-  "description": "",
+  "description": "repository hosting inventaire i18n strings and scripts",
   "main": "index.js",
   "directories": {
     "lib": "lib"
