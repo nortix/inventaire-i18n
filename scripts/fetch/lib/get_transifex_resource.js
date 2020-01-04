@@ -1,6 +1,6 @@
 const fetch = require('node-fetch')
 const { username, password } = require('config').transifex
-const { yellow } = require('chalk')
+const { yellow } = require('tiny-chalk')
 const base = 'www.transifex.com/api/2/project/inventaire/resource'
 
 module.exports = (resource, lang) => {

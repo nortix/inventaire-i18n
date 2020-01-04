@@ -21,10 +21,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^2.4.1",
     "config": "^3.0.0",
     "lodash.pick": "^4.4.0",
     "node-fetch": "^2.6.0",
+    "tiny-chalk": "^2.0.0",
     "transifexify": "^1.0.6",
     "wikibase-cli": "^9.0.0"
   }
