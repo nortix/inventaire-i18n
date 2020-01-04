@@ -22,7 +22,6 @@
   "license": "ISC",
   "dependencies": {
     "config": "^3.0.0",
-    "lodash.pick": "^4.4.0",
     "node-fetch": "^2.6.0",
     "tiny-chalk": "^2.0.0",
     "transifexify": "^1.0.8",

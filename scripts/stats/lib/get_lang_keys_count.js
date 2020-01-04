@@ -1,6 +1,6 @@
 const transifexResources = [ 'emails', 'shortkey', 'fullkey' ]
 const wikidataPropertiesList = require('../../../original/wikidata.properties_list')
-const pick = require('lodash.pick')
+const pick = require('./pick')
 
 module.exports = lang => {
   const translatedResourcesCount = getResourcesTranslatedCount(lang)
