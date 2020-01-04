@@ -1,13 +1,7 @@
 #!/usr/bin/env node
-/*
- * decaffeinate suggestions:
- * DS101: Remove unnecessary use of Array.from
- * DS207: Consider shorter variations of null checks
- * Full docs: https://github.com/decaffeinate/decaffeinate/blob/master/docs/suggestions.md
- */
-const [ lang ] = Array.from(process.argv.slice(2));
-if (lang == null) { throw new Error('missing lang'); }
-const fs = require('fs');
+const [ lang ] = process.argv.slice(2)
+if (lang == null) throw new Error('missing lang')
+const fs = require('fs')
 
-const emailValues = require('./lib/get_lang_emails_values')(lang);
-console.log(JSON.stringify(emailValues, null, 2));
+const emailValues = require('./lib/get_lang_emails_values')(lang)
+console.log(JSON.stringify(emailValues, null, 2))
