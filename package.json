@@ -25,7 +25,7 @@
     "lodash.pick": "^4.4.0",
     "node-fetch": "^2.6.0",
     "tiny-chalk": "^2.0.0",
-    "transifexify": "^1.0.6",
+    "transifexify": "^1.0.7",
     "wikibase-cli": "^9.0.0"
   }
 }
