@@ -1,5 +1,4 @@
 node_modules
 config/local.js
-package-lock.json
 translations/wikidata/*.json
 dist
