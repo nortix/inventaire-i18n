@@ -1,4 +1,4 @@
-const breq = require('bluereq')
+const fetch = require('node-fetch')
 const { username, password } = require('config').transifex
 const { yellow } = require('chalk')
 const base = 'www.transifex.com/api/2/project/inventaire/resource'
@@ -9,8 +9,8 @@ module.exports = (resource, lang) => {
 
   const url = `https://${username}:${password}@${base}/${resource}/translation/${lang}/strings`
 
-  return breq.get(url)
-  .get('body')
+  return fetch(url)
+  .then(res => res.json())
   .then(format)
 }
 
