@@ -15,6 +15,16 @@ npm install
 npm run fetch-translations
 npm run build
 ```
+
+If you dont want to fetch translations, you can use the `dist` branch locally : simply copy paste the translated files into the `public` folder :
+
+```sh
+git checkout dist
+cd client
+mkdir public/i18n
+cp inventaire-i18n/dist/client/* ./public/i18n
+```
+
 ### production
 Building requires to
 * set a username and password in `./config/local.coffee` to be authentified on Transifex
