@@ -3,4 +3,4 @@ set -eu
 
 mkdir -p ./dist/transifex
 transifexify ./original/*.en.json
-mv ./original/*en.transifex.json ./dist/transifex
+cp ./original/*en.transifex.json ./dist/transifex
