@@ -4,7 +4,7 @@
   "activity summary": "aktivitetssammanställning",
   "activity_summary_meta": "Din aktivitetssammanfattning skickas som e-post var %{periodicity} dag. Du kan ändra inställningen för perioden eller även helt avstå från de mailen via [email notifications settings](%{settingsHref}). Om det är någon aktivitet som du skulle vilja se och få sammanställd i din aktivitetssammanfattning, så kan du sända Inventaire dina förslag genom att svara på detta e-brev.",
   "activity_summary_title": "Din aktivitetssammanställning",
-  "cancelled": "%{username} avbröt transaktionen.",
+  "cancelled": "%{username} avbröt bytet",
   "confirmed": "%{username} bekräftar att ha mottagit boken.",
   "declined": "%{username} avböjde din förfrågan.",
   "did you know?": "Visste du?",
