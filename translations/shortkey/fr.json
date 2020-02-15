@@ -33,7 +33,7 @@
   "delete_items_confirmation": "Êtes-vous sûr de vouloir enlever les **%{amount}** livres sélectionnés de votre inventaire ?",
   "destroy_group_confirmation": "Êtes vous sûr de vouloir détruire le groupe **%{groupName}**?",
   "details_placeholder": "des informations à donner sur l'objet ou la transaction ?",
-  "display_mode": null,
+  "display_mode": "mode d'affichage",
   "donate_intro": "inventaire.io est un projet visant à produire des outils pour mieux gérer nos ressources tout en faisant grandir le savoir libre. À moyen terme, la mission que se donne le projet devra être [supportée par une activité économique comme décrit dans la Roadmap](https://trello.com/c/Z7alRtpZ) (en).<br>En attendant, vous pouvez **soutenir le développement du projet en faisant un don** via un des moyens de paiement suivant:",
   "edit_entity": "modifier \"%{entity}\"",
   "email_confirmation_error": "votre email n'a pas pu être validé",
