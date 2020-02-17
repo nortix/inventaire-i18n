@@ -182,5 +182,6 @@
     "x_months_ago": "%{smart_count} month ago |||| %{smart_count} months ago",
     "x_years_ago": "%{smart_count} year ago |||| %{smart_count} years ago",
     "km_away_from_you": "%{distance} km away from you",
-    "display_mode": "display mode"
+    "display_mode": "display mode",
+    "confirmation_items_edit": "are you sure you want to **edit %{count} items**?"
 }
