@@ -589,7 +589,6 @@
     "cascade": "cascade",
     "table": "table",
     "account": "account",
-    "save presentation": "save presentation",
     "done": "done",
     "go to the group's inventory": "go to the group's inventory",
     "add group": "add group",
@@ -608,5 +607,6 @@
     "couldn't parse emails": "couldn't parse emails",
     "search group": "search group",
     "create a new group": "create a new group",
-    "edit the group's position": "edit the group's position"
+    "edit the group's position": "edit the group's position",
+    "import from:": "import from:"
 }
