@@ -40,6 +40,7 @@
   "last_network_books": "nya böcker i dina vänners och gruppers inventeringar",
   "last_network_books_more": "...och [%{smart_count} till](https://inventaire.io/inventory)",
   "news_3": "Vid senaste uppdateringen introducerade vi funktionen [geolokaliserade användare](https://inventaire.io/network/users/nearby). Numera kan du också hitta [grupper i närheten](https://inventaire.io/network/groups/nearby)! Om du redan har skapat en grupp och nu vill att den ska synas på kartan, gå till [gruppinställningar](https://inventaire.io/network/groups/user). Och har du inte redan skapat en grupp, så kan du [skapa grupp här](https://inventaire.io/network/groups/create). Grupper har funktionen att sammanföra användare som ofta återkommer till samma plats - ett kontor, företagshotell, en skola, en förening med mera. - om du saknar en funktion, låt oss få veta det! <br><p style='text-align:right'>Maxime / Översatt av Benny A</p>",
+  "news_4": null,
   "no_activity": "Ingen aktivitet att visa.",
   "pending_friends_requests_count": "Du har **%{smart_count}** [obesvarad vänförfrågan](%{href}) |||| Du har **%{smart_count}** [obesvarade vänförfrågningar](%{href})",
   "pending_group_invitations_count": "Du har **%{smart_count}** [obesvarad gruppinbjudan](%{href}) |||| Du har **%{smart_count}** [obesvarade gruppinbjudningar](%{href})",

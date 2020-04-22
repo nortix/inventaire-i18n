@@ -34,7 +34,7 @@
   "delete_items_confirmation": null,
   "destroy_group_confirmation": "Bist Du sicher, dass Du die Gruppe **%{groupName}** zerstören willst?",
   "details_placeholder": "Du willst möglicherweise mehr Details zu dem Objekt oder der Transaktion hinzufügen",
-  "display_mode": null,
+  "display_mode": "Darstellungsmodus",
   "donate_intro": "inventaire.io will nützliche Werkzeuge erzeugen um unsere Ressourcen besser zu verwalten und gleichzeitig freies Wissen vorantreiben. Längerfristig soll das Projekt durch wirtschaftliche Aktivitäten finanzieren, [die hier beschrieben werden](https://trello.com/c/Z7alRtpZ).<br>Bis dahin kannst du die **Entwicklung des Projekts unterstützen, indem du spendest**:",
   "edit_entity": "\"%{entity}\" bearbeiten",
   "email_confirmation_error": "E-Mail-Bestätigungsanfrage war ungültig oder veraltet",

@@ -40,6 +40,7 @@
   "last_network_books": "nové knihy v katalozích tvých přátel a skupin",
   "last_network_books_more": "...a [%{smart_count} další](https://inventaire.io/inventory) |||| ...a [%{smart_count} další](https://inventaire.io/inventory) |||| ...a [%{smart_count} dalších](https://inventaire.io/inventory)",
   "news_3": "Posledně jsme představili možnost vidět [geolokované uživatele](https://inventaire.io/network/users/nearby), teď můžete najít také [nedaleké skupiny](https://inventaire.io/network/groups/nearby)! Pokud jste už vytvořili skupinu a chcete, aby se zobrazila na mapě, běžte do [nastavení skupiny](https://inventaire.io/network/groups/user). Jinak vždy můžete [vytvořit skupinu zde](https://inventaire.io/network/groups/create). Skupiny jsou navrženy tak, aby sdružovaly lidi, kteří přicházejí pravidelně do jednoho místa - do kanceláře, do coworkingu, na univerzitu atd. - ale jestli je užíváte jiným způsobem a něco vám chybí, dejte nám vědět! <br> <p style='text-align:right'>Maxime</p>",
+  "news_4": null,
   "no_activity": "žádná aktivita k zobrazení",
   "pending_friends_requests_count": "máš **%{smart_count}** [nevyřízenou žádost o přátelství](%{href}) |||| máš **%{smart_count}** [nevyřízené žádosti o přátelství](%{href}) |||| máš **%{smart_count}** [nevyřízených žádostí o přátelství](%{href})",
   "pending_group_invitations_count": "máš **%{smart_count}** [nevyřízenou pozvánku do skupiny](%{href}) |||| máš **%{smart_count}** [nevyřízené pozvánky do skupiny](%{href}) |||| máš **%{smart_count}** [nevyřízených pozvánek do skupiny](%{href})",

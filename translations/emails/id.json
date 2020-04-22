@@ -40,6 +40,7 @@
   "last_network_books": "buku-buku di inventori teman-teman dan grup anda",
   "last_network_books_more": "...dan [%{smart_count} lagi](https://inventaire.io/inventory)",
   "news_3": null,
+  "news_4": null,
   "no_activity": "tidak ada aktivitas untuk ditampilkan",
   "pending_friends_requests_count": "anda memiliki **%{smart_count}** [permintaan pertemanan menanti](%(href)) |||| anda memiliki **%{smart_count}** [permintaan pertemanan menanti](%{href})",
   "pending_group_invitations_count": null,
