@@ -58,6 +58,7 @@
     "did_you_know_5": "You can [search Inventaire from your browser search bar](https://wiki.inventaire.io/wiki/Add-Inventaire-to-your-browser-search-engines)",
     "last_network_books_more": "...and [%{smart_count} more](https://inventaire.io/inventory)",
     "news_3": "Last time we introduced the possibility to see [geolocated users](https://inventaire.io/network/users/nearby), now you can also find [groups nearby](https://inventaire.io/network/groups/nearby)! If you already created a group and want it to appear on the map, go to your [group's settings](https://inventaire.io/network/groups/user). If you haven't, you can always [create a group here](https://inventaire.io/network/groups/create). Groups are designed to regroup people who come to a place regularly - an office, a coworking, a university, etc. - but if you use it in other ways and miss a feature, let us know!  <br><p style='text-align:right'>Maxime</p>",
+    "news_4": "**The new Inventaire interface is here!** You can now browse [inventories](https://inventaire.io/inventory) by authors, genres, or subjects. We also introduced a new display to browse inventories in a more compact way: look for the **Display mode** button, and select **Table**. This Table mode also allows you to **change the visibility or the transaction mode of many of your books at once**, which used to be a painful operation.<br>More to come!",
     "activity summary": "activity summary",
     "did you know?": "did you know?",
     "no_activity": "no activity to display",
