@@ -49,7 +49,6 @@ module.exports = [
 ]
 
 // properties with customized labels are treated as fullkey:
-// P364
 // P407
 // P571
 // P576

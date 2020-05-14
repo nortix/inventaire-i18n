@@ -179,8 +179,7 @@
     "archive": "archive",
     "pages": "pages",
     "edit data on Wikidata": "edit data on Wikidata",
-    "P364": "original language",
-    "P407": "edition language",
+    "P407": "language",
     "P571": "date of foundation",
     "P576": "date of dissolution",
     "P921": "main subject",
@@ -608,5 +607,9 @@
     "search group": "search group",
     "create a new group": "create a new group",
     "edit the group's position": "edit the group's position",
-    "import from:": "import from:"
+    "edit selection": "edit selection",
+    "date of foundation": "date of foundation",
+    "date of dissolution": "date of dissolution",
+    "first publication date": "first publication date",
+    "original language": "original language"
 }
