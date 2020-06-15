@@ -1,5 +1,0 @@
-#!/usr/bin/env sh
-# To be used after having changed original/wikidata.properties_list.js
-
-rm ./translations/wikidata/*json
-./scripts/fetch/fetch_wikidata_translations

@@ -1,35 +1,4 @@
 #!/usr/bin/env bash
-
-set -eu
-
-grey(){ echo -e "\e[0;30m${@}\e[0;30m" ; }
-green(){ echo -e "\e[0;32m${@}\e[0;30m" ; }
-blue(){ echo -e "\e[0;34m${@}\e[0;30m" ; }
-
 mkdir -p ./translations/wikidata
-
-fetch_props(){
-  path="./translations/wikidata/${1}.json"
-  [ -e "$path" ] && {
-    blue "wikidata $1: already fetched"
-  } || {
-    grey "fetching: wikidata - $1"
-
-    {
-      # Catching 'no result errors'
-      # Known case: lang=no
-      sleep 1 && ./node_modules/.bin/wd sparql ./scripts/fetch/lib/get_wikidata_whitelisted_properties_lang_labels.js "$1" || echo '[]'
-    } | ./scripts/fetch/lib/format_wikidata_properties.js \
-      > $path
-
-    green "fetched: wikidata - $1"
-  }
-}
-
-fetch_props 'en'
-
-for lang in $(cat ./assets/translated_langs);
-do fetch_props $lang;
-done;
-
+./scripts/get_wikidata_whitelisted_properties_lang_labels.js
 echo 'done fetching wikidata translations'
