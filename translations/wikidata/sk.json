@@ -7,6 +7,7 @@
   "P50": "autor",
   "P58": "scenárista",
   "P69": "škola",
+  "P98": "editor",
   "P103": "materinský jazyk",
   "P106": "činnosť",
   "P110": "ilustrátor",
@@ -30,5 +31,6 @@
   "P1545": "radové číslo",
   "P1680": "podtitul",
   "P2003": "Instagram",
-  "P2013": "ID na Facebooku"
+  "P2013": "ID na Facebooku",
+  "P2397": "ID kanálu YouTube"
 }

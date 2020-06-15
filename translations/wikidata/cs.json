@@ -7,6 +7,7 @@
   "P50": "autor",
   "P58": "scenárista",
   "P69": "škola",
+  "P98": "editor",
   "P103": "mateřský jazyk",
   "P106": "povolání",
   "P110": "ilustrátor",
@@ -20,6 +21,7 @@
   "P156": "následující",
   "P166": "ocenění",
   "P179": "série",
+  "P195": "sbírka",
   "P212": "ISBN-13",
   "P463": "člen (čeho)",
   "P569": "datum narození",
@@ -43,5 +45,6 @@
   "P2397": "ID kanálu YouTube",
   "P2679": "autor předmluvy",
   "P2680": "autor doslovu",
-  "P3035": "prefix ISBN pro nakladatele"
+  "P3035": "prefix ISBN pro nakladatele",
+  "P6338": "kolorista"
 }
