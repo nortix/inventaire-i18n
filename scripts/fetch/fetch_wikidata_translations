@@ -18,7 +18,7 @@ fetch_props(){
     {
       # Catching 'no result errors'
       # Known case: lang=no
-      ./node_modules/.bin/wd sparql ./scripts/fetch/lib/get_wikidata_whitelisted_properties_lang_labels.js "$1" || echo '[]'
+      sleep 1 && ./node_modules/.bin/wd sparql ./scripts/fetch/lib/get_wikidata_whitelisted_properties_lang_labels.js "$1" || echo '[]'
     } | ./scripts/fetch/lib/format_wikidata_properties.js \
       > $path
 

@@ -11,11 +11,12 @@
     "build-client": "./scripts/build/build_client",
     "build-emails": "./scripts/build/build_emails",
     "build-transifex-resources": "./scripts/build/build_transifex_resources",
-    "update-stats": "./scripts/stats/update_language_stats",
-    "fetch-translations": "./scripts/fetch/fetch_translations",
-    "update-dist": "./scripts/update_dist",
     "checkout-master": "git checkout ./dist && git checkout master",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "fetch-translations": "./scripts/fetch/fetch_translations",
+    "reset-wikidata-translations": "./scripts/reset_wikidata_translations",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update-dist": "./scripts/update_dist",
+    "update-stats": "./scripts/stats/update_language_stats"
   },
   "keywords": [],
   "author": "",
