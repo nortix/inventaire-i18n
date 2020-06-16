@@ -3,8 +3,11 @@ const { getManyEntities } = require('wikidata-sdk')
 const { readFileSync, promises: fsPromises  } = require('fs')
 const { writeFile } = fsPromises
 const languages = readFileSync('./assets/translated_langs').toString().trim().split(' ')
+// 'en' isn't considered a translated language, as it's the original language for other translated assets
+languages.push('en')
 const properties = require('../original/wikidata.properties_list')
 const fetch = require('node-fetch')
+const { green } = require('tiny-chalk')
 
 const urls = getManyEntities({ ids: properties, languages, props: 'labels' })
 
@@ -33,6 +36,7 @@ const saveTranslationFiles = async () => {
   for (const lang in labelPerLanguage) {
     const data = labelPerLanguage[lang]
     await writeFile(`translations/wikidata/${lang}.json`, JSON.stringify(data, null, 2) + '\n')
+    console.log(green(`fetched: wikidata - ${lang}`))
   }
 }
 
