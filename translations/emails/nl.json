@@ -39,7 +39,6 @@
   "last_nearby_books_more": "...en nog [%{smart_count}](https://inventaire.io/inventory/nearby)",
   "last_network_books": "nieuwe boeken in inventarissen in uw omgeving",
   "last_network_books_more": "...en [nog %{smart_count}](https://inventaire.io/inventory)",
-  "news_3": "De vorige keer introduceerden we de mogelijkheid om [gebruikers in de buurt](https://inventaire.io/network/users/nearby) te ontdekken, nu kunt ook [groepen in de buurt](https://inventaire.io/network/groups/nearby) zien! Als je al een groep hebt aangemaakt en je wil deze op de kaart zichtbaar maken, ga dan naar de [groepsinstellingen](https://inventaire.io/network/groups/user). Als je er nog geen hebt kan je altijd [hier een groep aanmaken](https://inventaire.io/network/groups/create). Groepen zijn ontworpen om mensen bijeen te brengen die elkaar regelmatig zien - een kantoor, a coworking-ruimte, een school, etc. - maar als je het op andere manieren gebruikt en een feature mist, laat het ons vooral weten!  <br><p style='text-align:right'>Maxime</p>",
   "news_4": null,
   "no_activity": "niets om weer te geven",
   "pending_friends_requests_count": "je hebt **%{smart_count}** [uitstaand vriendschapsverzoek](%{href}) |||| je hebt **%{smart_count}** [uitstaande vriendschapsverzoeken](%{href})",

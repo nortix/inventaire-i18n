@@ -39,7 +39,6 @@
   "last_nearby_books_more": "...そして [%{smart_count} 以上](https://inventaire.io/inventory/nearby)",
   "last_network_books": "あなたの友達やコミュニティ内の新しい本",
   "last_network_books_more": "...そして [%{smart_count} 以上](https://inventaire.io/inventory)",
-  "news_3": "先日私たちは[位置情報付きのユーザ](https://inventaire.io/network/users/nearby)を見る可能性について紹介しましたが、現在あなたは[近くのグループ](https://inventaire.io/network/groups/nearby)を探すこともできます！もしあなたがグループを作成済みで、マップ上に表示させたければ、[グループの設定](https://inventaire.io/network/groups/user)に行ってください。まだであれば、あなたはいつでも[ここでグループを作成](https://inventaire.io/network/groups/create)できます。グループはある場所（オフィス、コワーキング、大学等）に定期的に来る人を再グループするためにデザインされています。しかし、もしあなたが他のやり方で使っていて機能に気づいていない場合は私たちに教えてください！<br><p style='text-align:right'>Maxime</p>",
   "news_4": null,
   "no_activity": "表示対象の活動はありません",
   "pending_friends_requests_count": "[保留中の友達リクエスト](%{href})が**%{smart_count}**件あります  |||| [保留中の友達リクエスト](%{href})が**%{smart_count}** 件あります",

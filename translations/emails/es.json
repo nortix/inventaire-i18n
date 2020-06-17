@@ -39,7 +39,6 @@
   "last_nearby_books_more": "...y [%{smart_count} mas](https://inventaire.io/inventory/nearby)",
   "last_network_books": "hay nuevos libros en los inventarios de sus amigos/as y grupos",
   "last_network_books_more": "...y [%{smart_count} más](https://inventaire.io/inventory)",
-  "news_3": "La última vez presentamos la posibilidad de ver [usuarios geolocalizados](https://inventaire.io/network/users/nearby), ahora usted puede también encontrar [grupos cercanos](https://inventaire.io/network/groups/nearby)! Si usted ya creó un grupo y desea que aparezca en el mapa, dirijase a los [ajustes de su grupo](https://inventaire.io/network/groups/user). Si usted aún no lo hecho, usted siempre puede [crear un grupo aquí](https://inventaire.io/network/groups/create). Los grupos están diseñados para reagrupar gente que va a un lugar con regularidad - una oficina u otro lugar de trabajo, una universidad, etc. - pero si usted lo usa de otra forma y le hace falta alguna característica, ¡háganoslo saber! <br><p style='text-align:right'>Maxime</p>",
   "news_4": null,
   "no_activity": "no hay actividad que mostrar",
   "pending_friends_requests_count": "usted tiene **%{smart_count}** [solicitud de amistad pendiente](%{href}) |||| usted tiene **%{smart_count}** [solicitudes de amistad pendientes](%{href})",

@@ -39,7 +39,6 @@
   "last_nearby_books_more": "... kaj [%{smart_count} pli](https://inventaire.io/inventory/nearby)",
   "last_network_books": "novaj libroj en stokoj de viaj amikoj kaj grupoj",
   "last_network_books_more": "... kaj [%{smart_count} pli](https://inventaire.io/inventory)",
-  "news_3": "Lastatempe, ni aldonis la eblon de vidi [geolokigajn uzantojn](https://inventaire.io/network/users/nearby), nun vi ankaŭ povas serĉi [proksimajn grupojn](https://inventaire.io/network/groups/nearby)! Se vi jam kreis grupon kaj volas aldoni ĝi en la mapo, iru al vian [agordojn de grupo](https://inventaire.io/network/groups/user). Alie, vi ĉiam povas [krei grupon tie](https://inventaire.io/network/groups/create). Grupoj estas desegnitaj por kunigi homojn kiuj ofte renkonti unu la aliaj - en oficejo, universitato, ktp. - sed se vi uzas grupoj en alia maniero kaj bezonas alian funkcion, bonvolu kontakti nin!  <br><p style='text-align:right'>Maxime</p>",
   "news_4": null,
   "no_activity": "neniuj videblaj aktivecoj",
   "pending_friends_requests_count": "vi havas **%{smart_count}** [pritraktotan amikiĝpeton](%{href}) |||| vi havas **%{smart_count}** [pritraktotajn amikiĝpetojn](%{href})",

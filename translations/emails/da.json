@@ -39,7 +39,6 @@
   "last_nearby_books_more": "...og [%{smart_count} mere](https://inventaire.io/inventory/nearby)",
   "last_network_books": "nye bøger i dine venner og gruppers oversigter",
   "last_network_books_more": "...og [%{smart_count} mere](https://inventaire.io/inventory)",
-  "news_3": "Sidste gang introducerede vi muligheden for at se [geografisk placerede brugere] (https://inventaire.io/network/users/nearby), nu kan du også finde [grupper i nærheden] (https://inventaire.io/network/groups/nearby)! Hvis du allerede har oprettet en gruppe, og den skal vises på kortet, skal du gå til din [gruppes indstillinger] (https://inventaire.io/network/groups/user). Hvis du ikke har det, kan du altid [oprette en gruppe her] (https://inventaire.io/network/groups/create). Grupper er designet til at omgruppere mennesker, der kommer til et sted regelmæssigt - et kontor, et Kontorfællesskaber, et universitet, etc. - men hvis du bruger det på andre måder, og mangler en funktion, så sig til! <br> <p style = 'text-align:right\"> Maxime </ p>",
   "news_4": null,
   "no_activity": "Ingen aktivitet at vise",
   "pending_friends_requests_count": "du har **%{smart_count}** [afventende venneanmodning](%{href}) |||| you have **%{smart_count}** [pending friend requests](%{href})",

@@ -39,7 +39,6 @@
   "last_nearby_books_more": "...ve [%{smart_count} tane daha](https://inventaire.io/inventory/nearby)",
   "last_network_books": "arkadaşlarınızın ve grupların envanterlerinde ki yeni kitaplar",
   "last_network_books_more": "...ve [%{smart_count} tane daha](https://inventaire.io/inventory)",
-  "news_3": "En son olarak , [coğrafi olarak konumlandırılmış kullanıcıları] görme imkânını sunmuştuk(https://inventaire.io/network/users/nearby), şimdi de [yakınlardaki grupları] bulabilirsiniz (https://inventaire.io/network/groups/nearby)! Zaten bir grup oluşturduysanız ve haritada görünmesini istiyorsanız, [grup ayarları] bölümüne gidin(https://inventaire.io/network/groups/user). Bir grubunuz yoksa [buradan bir tane oluşturun](https://inventaire.io/network/groups/create). Gruplar düzenli olarak bir yerlerde buluşacak kişileri - bir ofis, iş arkadaşınız, üniversite vb. - yeniden gruplandırmak için tasarlanmıştır ancak bunu başka yollarla kullanırsanız ve başka bir özelliğin olmasını isterseniz bize bildirin!<br><p style='text-align:right'>Maxime</p>",
   "news_4": null,
   "no_activity": "gösterilecek etkinlik yok",
   "pending_friends_requests_count": "**%{smart_count}** [bekleyen arkadaşlık isteği] var (%{href}) ||||  **%{smart_count}** [bekleyen arkadaşlık isteği] var(%{href})",
