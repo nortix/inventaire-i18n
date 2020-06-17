@@ -7,12 +7,10 @@ module.exports = [
   'P50',
   'P58',
   'P69',
-  'P98',
   'P103',
   'P106',
   'P110',
   'P112',
-  'P123',
   'P127',
   'P135',
   'P136',
@@ -51,6 +49,8 @@ module.exports = [
 ]
 
 // properties with customized labels are treated as fullkey:
+// P98
+// P123
 // P407
 // P571
 // P576

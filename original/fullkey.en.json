@@ -614,9 +614,15 @@
     "join the conversation": "join the conversation",
     "blog": "blog",
     "FAQ": "FAQ",
+    "P98": "editor",
+    "P123": "publisher",
+    "P195": "collection",
     "editor": "editor",
-    "create and go to the collection's page": "create and go to the collection's page",
+    "collection editor": "collection editor",
+    "collection": "collection",
     "number of volumes": "number of volumes",
     "required properties are missing": "required properties are missing",
-    "collection": "collection"
+    "create and go to the collection's page": "create and go to the collection's page",
+    "return to the collection's page": "return to the collection's page",
+    "saving would create a new collection": "saving would create a new collection"
 }
