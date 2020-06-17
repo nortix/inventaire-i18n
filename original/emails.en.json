@@ -47,7 +47,6 @@
   "lending_personalized": null,
   "lending_personalized_strong": null,
   "news": null,
-  "news_3": "Last time we introduced the possibility to see [geolocated users](https://inventaire.io/network/users/nearby), now you can also find [groups nearby](https://inventaire.io/network/groups/nearby)! If you already created a group and want it to appear on the map, go to your [group's settings](https://inventaire.io/network/groups/user). If you haven't, you can always [create a group here](https://inventaire.io/network/groups/create). Groups are designed to regroup people who come to a place regularly - an office, a coworking, a university, etc. - but if you use it in other ways and miss a feature, let us know!  <br><p style='text-align:right'>Maxime</p>",
   "news_4": "**The new Inventaire interface is here!** You can now browse [inventories](https://inventaire.io/inventory) by authors, genres, or subjects. We also introduced a new display to browse inventories in a more compact way: look for the **Display mode** button, and select **Table**. This Table mode also allows you to **change the visibility or the transaction mode of many of your books at once**, which used to be a painful operation.<br>More to come!",
   "no_activity": "no activity to display",
   "pending_friends_requests_count": "you have **%{smart_count}** [pending friend request](%{href}) |||| you have **%{smart_count}** [pending friend requests](%{href})",
