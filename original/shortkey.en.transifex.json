@@ -159,7 +159,6 @@
     "unfriend_confirmation": "do you really want to remove **%{username}** from your friends?",
     "update_on_item_you_requested_notification": "updates in a exchange about a book you requested",
     "update_on_your_item_notification": "updates in an exchange about one of your books",
-    "use_zxing_application": "use an external scanner application",
     "user_comment": "%{username}'s comment",
     "user_default_description": "see the books %{username} wants to give, lend or sell",
     "user_made_admin": "**%{username}** named you admin of the group **%{groupName}**",
