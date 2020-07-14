@@ -431,7 +431,7 @@
   "requests waiting your approval": "demandes en attente d'approbation",
   "requests you sent": "demandes que vous avez envoyées",
   "required properties are missing": "certaines propriétés requises manquent",
-  "requires an activated camera": "nécessite d'activer un capteur photo",
+  "requires an activated camera": "nécessite d'avoir une camera activée",
   "reset password": "réinitialiser le mot de passe",
   "reset password token expired: request a new token": "le jeton de réinitialisation a expiré : demandez un nouveau jeton",
   "retry": "réessayer",
