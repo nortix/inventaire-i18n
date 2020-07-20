@@ -39,7 +39,7 @@
   "last_nearby_books_more": "...e [%{smart_count} ancora](https://inventaire.io/inventory/nearby)",
   "last_network_books": "nuovi libri negli inventari dei tuoi amici e gruppi",
   "last_network_books_more": "... e [altri %{smart_count}](https://inventaire.io/inventory)",
-  "news_4": null,
+  "news_4": "**La nuova interfaccia di Inventaire è qui!** Adesso puoi esplorare gli [inventari](https://inventaire.io/inventory) per autore, genere o argomento. Abbiamo anche introdotto una nuova modalità di visualizzazione per esplorare gli inventari in modo più compatto: trova il tasto **Display mode** e seleziona **Table**. Questa modalità compatta ti permette anche di **cambiare la visibilità o la modalità di transazione di molti dei tuoi libri in una volta sola**, che solitamente era un'operazione complessa.<br>Altre novità in arrivo!",
   "no_activity": "nessun'attività da mostrare",
   "pending_friends_requests_count": "hai **%{smart_count}** [richiesta di amicizia in sospeso](%{href}) |||| hai **%{smart_count}** [richieste di amicizia in sospeso](%{href})",
   "pending_group_invitations_count": "hai **%{smart_count}** [invito di adesione a gruppi in sospeso](%{href}) |||| hai **%{smart_count}** [inviti di adesione a gruppi in sospeso](%{href})",
