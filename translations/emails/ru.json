@@ -59,7 +59,7 @@
   "update_on_your_item_button": "ответ",
   "update_on_your_item_subject": "новости от %{username} насчёт вашей книги [%{title}](%{link})",
   "update_on_your_item_title": null,
-  "user_news": null,
+  "user_news": "Привет, %{username}!",
   "you_are_welcome_to_reply": "**не стесняйтесь ответить на это письмо**, если у вас есть вопросы или комментарии",
   "your_item_was_requested_button": "ответ",
   "your_item_was_requested_subject": "%{username} просит вашу книгу [%{title}](%{link})",
