@@ -1,7 +1,7 @@
 {
-  "accepted": null,
+  "accepted": "%{username} прийняв(ла) ваш запит",
   "active_transactions_count": null,
-  "activity summary": null,
+  "activity summary": "підсумок активності",
   "activity_summary_meta": null,
   "activity_summary_title": null,
   "cancelled": null,
