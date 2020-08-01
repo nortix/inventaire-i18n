@@ -49,7 +49,6 @@
   "book series": "book series",
   "books": "books",
   "books successfully added to your inventory": "books successfully added to your inventory",
-  "books:": "books:",
   "browse": "browse",
   "Built on and for Open Knowledge": "Built on and for Open Knowledge",
   "Built on and in Open Source": "Built on and in Open Source",
@@ -212,7 +211,6 @@
   "help other users to understand what this group is about": "help other users to understand what this group is about",
   "help translate Inventaire": "help translate Inventaire",
   "hide": "hide",
-  "hide details": "hide details",
   "history": "history",
   "how to contribute": "how to contribute",
   "I can lend it": "I can lend it",
@@ -435,8 +433,8 @@
   "show": "show",
   "show authors": "show authors",
   "show descriptions": "show descriptions",
-  "show details": "show details",
   "show editions": "show editions",
+  "show on map": "show on map",
   "show task": "show task",
   "sign up": "sign up",
   "some of the last books listed": "some of the last books listed",
@@ -552,5 +550,11 @@
   "P195": "collection",
   "P407": "language",
   "P571": "date of foundation",
-  "P576": "date of dissolution"
+  "P576": "date of dissolution",
+  "P577": "date of publication",
+  "P629": "edition of",
+  "P921": "main subject",
+  "P1412": "language of expression",
+  "P1476": "original title",
+  "P2635": "number of volumes"
 }
