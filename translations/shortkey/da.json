@@ -55,7 +55,7 @@
   "group_invite_notification": "du er blevet inviteret til at blive medlem af en gruppe",
   "group_invitor": "%{username} inviterede dig til at blive medlem",
   "group_kick_confirmation": "er du sikker på du vil fjerne **%{username}** fra gruppen?",
-  "group_make_admin_confirmation": "er du sikker på du gøre **%{username}** til admin af gruppen?",
+  "group_make_admin_confirmation": "er du sikker på at du vil gøre **%{username}** til admin af gruppen?",
   "group_make_admin_warning": "dette kan ikke gøres om og en admin kan ikke fjernes fra gruppen, heller ikke af en anden admin",
   "group_position_context": "Hvs din gruppe er tilknyttet et specifikt sted (et universitet, et arbejdsrum, osv.) kan det være nyttigt at indikere positionen på kortet, for at hjælpe andre brugere med at finde det",
   "group_update_description": "**%{username}** ændrede beskrivelsen af gruppen **%{groupName}**",
