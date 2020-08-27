@@ -39,6 +39,7 @@
   "email_wasnt_verified": "**ваш email не был подтвержден.** <br> Если вы не можете найти письмо-подтверждение на почте, вы можете запросить новое, нажав на кнопку:",
   "exchanges_manager_welcome_text": null,
   "exchanges_manager_welcome_title": "Добро пожаловать в менеджер транзакций!",
+  "existing_entity_items": null,
   "failing_scan_tip": null,
   "feedback_intro": null,
   "feedback_title": "отправить обратную связь",

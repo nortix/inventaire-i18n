@@ -39,6 +39,7 @@
   "email_wasnt_verified": "**e-posta adresiniz henüz doğrulanmadı.**<br>Doğrulama e-postasını posta kutunuzda bulamazsanız, aşağıdaki düğmeyi tıklayarak yeni bir tane talep edebilirsiniz:",
   "exchanges_manager_welcome_text": "Burası, gönderdiğiniz veya aldığınız kitap isteklerinin görüntüleneceği yerdir.<br>Kitap isteği göndermek için kitabın sayfasına gidin ve \"istek gönder\" i tıklayın.",
   "exchanges_manager_welcome_title": "İşlemler yöneticisine hoş geldin!",
+  "existing_entity_items": "[%{count} envanterinizde](%{pathname}) zaten var",
   "failing_scan_tip": "Barkod tarayıcı barkodu bulma konusunda zorluk çekiyorsa, ışığın yeterli olduğundan veya kameranın yeterince iyi olduğundan emin olun",
   "feedback_intro": "Bir hata bildirmek, ihtiyacınız olan bir işlevsellik için istekte bulunmak ya da sadece teşekkür etmek ister misiniz? Bunları burada yapabilirsiniz!",
   "feedback_title": "geri bildirim gönder",

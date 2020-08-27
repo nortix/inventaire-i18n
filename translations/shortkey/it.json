@@ -39,6 +39,7 @@
   "email_wasnt_verified": "**La tua email non è stata verificata.** <br> Se non trovi l'email di conferma nella tua casella puoi richiederne una nuova cliccando su questo bottone:",
   "exchanges_manager_welcome_text": "Qui vengono mostrate le richieste di libri che hai inviato o ricevuto.<br>Per inviare una richiesta per un libro vai nella pagina del libro e premi su \"Invia una richiesta\"",
   "exchanges_manager_welcome_title": "Benvenuto nel gestore delle transazioni!",
+  "existing_entity_items": "ne hai già [%{count} nel tuo inventario](%{pathname})",
   "failing_scan_tip": "se il lettore ha difficoltà a trovare il codice a barre, può essere che l'illuminazione non è sufficiente o la fotocamera non ha la qualità necessaria",
   "feedback_intro": "Un bug da segnalare, una nuova funzionalità di cui hai assolutamente bisogno o vuoi solamente dirci quanto ci ami? Puoi farlo qui!",
   "feedback_title": "Invia un feedback",

@@ -39,6 +39,7 @@
   "email_wasnt_verified": "**din email er ikke blevet bekræftet** Hvis du ikke kan finde bekræftigelsesmailen i din indbakke, kan du anmode om en ny ved at klikke følgende knap:\nHvis du ikke kan finde bekræftigelsesmailen i din indbakke, kan du anmode om en ny ved at klikke følgende knap:\n",
   "exchanges_manager_welcome_text": "Det er her du kan se de anmodninger du har sendt eller har modtaget. For at sende en anmodning skal du gå til bogens side og klikke \"send anmodning\"",
   "exchanges_manager_welcome_title": "Velkommen til transaktionsorganisatoren!",
+  "existing_entity_items": null,
   "failing_scan_tip": "hvis scanneren har problemer med at finde stregkoden, er det måske fordi der ikke er nok lys eller fordi kameraet ikke er skarpt nok",
   "feedback_intro": "Vil du rapportere en bug (fejl)? En funktion du helt sikkert har brug for, eller måske du bare gerne vil sende lidt kærlighed? Du kan gøre det her!",
   "feedback_title": "send feedback",

@@ -39,6 +39,7 @@
   "email_wasnt_verified": "** je -email werd niet geverifieerd.** Als je de bevestigings e-mail niet in je mailbox kan vinden kan je een nieuwe aanvragen door op deze knop te drukken:",
   "exchanges_manager_welcome_text": "Hier kan je de aanvragen die je verstuurd en gekregen hebt bekijken. <br> Om een aanvraag te versturen ga je naar de pagina van het boek en klik je op 'stuur een aanvraag'",
   "exchanges_manager_welcome_title": "Welkom op het transactieoverzicht!",
+  "existing_entity_items": "Je hebt al [%{count} in je inventaris](%{pathname})",
   "failing_scan_tip": "Als de scanner problemene heeft met het vinden van de barcode is het mogelijk dat er niet genoeg lichtinval is of de camera niet scherp genoeg is",
   "feedback_intro": "Heb je een bug te melden, een functie die je absoluut nodig hebt, of wil je gewoon iets liefs sturen? Dat kan hier!",
   "feedback_title": "stuur feedback",

@@ -39,6 +39,7 @@
   "email_wasnt_verified": "**Deine E-Mail-Adresse wurde nicht bestätigt.** <br> Falls Du die Bestätigungs-E-Mail nicht in deinem Posteingang finden kannst, kannst du eine neue anfragen, indem du die folgende Schaltfläche anklickst:",
   "exchanges_manager_welcome_text": "Das ist, wo die Bücheranfragen, die du versendest oder empfängst angezeigt werden.<br>Um eine Bücheranfrage zu stellen, gehe auf die Seite des Buches und klicke \"eine Anfrage senden\"",
   "exchanges_manager_welcome_title": "Willkommen zum Transaktionsmanager!",
+  "existing_entity_items": "du hast schon [%{count} in deinem Inventar](%{pathname})",
   "failing_scan_tip": "wenn der Scanner Schwierigkeiten hat, den Barcode zu erkennen, kann es sein, dass eine bessere Beleuchtung nötig ist, oder die Kamera nicht gut genug ist",
   "feedback_intro": "Du hast einen Programmfehler gefunden, es gibt eine Funktionalität, die du absolut brauchst oder möchtest einfach Deine Liebe teilen? Das kannst du hier tun!",
   "feedback_title": "Gebe Rückmeldung",
