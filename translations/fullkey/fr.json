@@ -1,7 +1,7 @@
 {
   "a few words on you?": "quelques mots sur vous ?",
   "a title is required": "un titre est requis",
-  "accept": "accepterz",
+  "accept": "accepter",
   "accept friend request": "accepter la demande d'ajout en ami",
   "accept invitation": "accepter l'invitation",
   "account": "compte",
@@ -448,7 +448,7 @@
   "show authors": "afficher les auteurs",
   "show descriptions": "afficher les descriptions ",
   "show editions": "afficher les éditions",
-  "show on map": null,
+  "show on map": "afficher sur la carte",
   "show task": "afficher la tâche",
   "sign up": "inscription",
   "some of the last books listed": "quelques uns des derniers livres ajoutés",

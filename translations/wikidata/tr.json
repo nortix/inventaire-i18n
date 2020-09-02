@@ -28,9 +28,9 @@
   "P655": "çevirmen",
   "P674": "karakterler",
   "P737": "etkilendiği",
-  "P747": "baskı(lar)",
+  "P747": "baskı",
   "P840": "anlatımın geçtiği konum",
-  "P856": "resmî site",
+  "P856": "resmî sitesi",
   "P941": "esin kaynağı",
   "P957": "ISBN-10",
   "P1066": "kimin öğrencisi",
@@ -42,5 +42,7 @@
   "P2003": "Instagram kullanıcı adı",
   "P2013": "Facebook kimliği",
   "P2397": "YouTube kanal kimliği",
-  "P2679": "önsöz yazarı"
+  "P2679": "önsöz yazarı",
+  "P4033": "Mastodon adresi",
+  "P6338": "renk uzmanı"
 }
