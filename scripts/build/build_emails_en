@@ -1,17 +1,17 @@
 #!/usr/bin/env node
-const convertMarkdown = require('./lib/convert_markdown');
-const emailsValues = require('../../original/emails.en.json');
-const enClientDistValues = require("../../dist/client/en.json");
+const convertMarkdown = require('./lib/convert_markdown')
+const emailsValues = require('../../original/emails.en.json')
+const enClientDistValues = require('../../dist/client/en.json')
 
-const distValues = {};
-for (let key in emailsValues) {
+const distValues = {}
+for (const key in emailsValues) {
   // Borrowing values from the client
-  const value = emailsValues[key];
+  const value = emailsValues[key]
   if (value === null) {
-    distValues[key] = enClientDistValues[key];
+    distValues[key] = enClientDistValues[key]
   } else {
-    distValues[key] = convertMarkdown(value);
+    distValues[key] = convertMarkdown(value)
   }
 }
 
-console.log(JSON.stringify(distValues, null, 2));
+console.log(JSON.stringify(distValues, null, 2))
