@@ -23,6 +23,7 @@
   "data_mismatch": "it doesn't look like %{source} data",
   "decline_request": "decline",
   "delete_account_confirmation": "Are you sure you want to delete your account \"**%{username}**\"?",
+  "delete_entity_confirmation": "Are you sure you want to delete the entity \"**%{label}**\"?",
   "delete_item_confirmation": "Are you sure you want to remove **%{title}** from your inventory?",
   "delete_items_confirmation": "Are you sure you want to remove those **%{amount}** selected books from your inventory?",
   "destroy_group_confirmation": "Are you sure you want to destroy the group **%{groupName}**?",
