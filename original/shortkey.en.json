@@ -123,6 +123,7 @@
   "report_an_error_in_entity_data": "Report an error in the data if you don't know how to fix it",
   "request_new_token": "request a new chance to reset your password",
   "scanner_disabled_tip_2": "requires a camera and a [modern browser](https://www.mozilla.org/firefox)",
+  "search_verb": "search",
   "see_all_work_editions": "see all the editions of the work **%{label}**",
   "see_on_website": "see on %{website}",
   "selling_personalized": "%{username} is selling it",
