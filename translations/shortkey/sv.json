@@ -123,6 +123,7 @@
   "report_an_error_in_entity_data": null,
   "request_new_token": "begär en ny chans att återställa ditt lösenord",
   "scanner_disabled_tip_2": "kräver en kamera och en [modern webbläsare](https://www.mozilla.org/firefox)",
+  "search_verb": null,
   "see_all_work_editions": null,
   "see_on_website": "see on %{website}",
   "selling_personalized": "%{username} säljer den",

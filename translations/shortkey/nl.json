@@ -123,6 +123,7 @@
   "report_an_error_in_entity_data": "Signaleer een fout in de data als je niet weet hoe het zelf op te lossen",
   "request_new_token": "vraag een nieuwe kans aan om je wachtwoord opnieuw in te stellen",
   "scanner_disabled_tip_2": "vereist een camera en een [moderne browser](https://www.mozilla.org/firefox)",
+  "search_verb": null,
   "see_all_work_editions": "zie alle edities van **%{label}**",
   "see_on_website": "bekijk op %{website}",
   "selling_personalized": "%{username} verkoopt het",

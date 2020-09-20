@@ -123,6 +123,7 @@
   "report_an_error_in_entity_data": "修正の仕方が分からない場合はデータ内のエラーを知らせてください",
   "request_new_token": "パスワードの再リセットをリクエスト",
   "scanner_disabled_tip_2": "カメラと[モダン・ブラウザ](https://www.mozilla.org/firefox) が必要です",
+  "search_verb": null,
   "see_all_work_editions": null,
   "see_on_website": "%{website} で見る",
   "selling_personalized": "%{username} さんが販売中",

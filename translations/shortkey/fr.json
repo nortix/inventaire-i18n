@@ -123,6 +123,7 @@
   "report_an_error_in_entity_data": "Signaler une erreur dans les données si vous ne savez pas comment la corriger",
   "request_new_token": "demander l'envoi d'un email pour réinitialiser votre mot de passe",
   "scanner_disabled_tip_2": "requiert une caméra et un [navigateur moderne](https://www.mozilla.org/firefox)",
+  "search_verb": "rechercher",
   "see_all_work_editions": "voir toutes les éditions de **%{label}**",
   "see_on_website": "voir sur %{website}",
   "selling_personalized": "%{username} le vend",

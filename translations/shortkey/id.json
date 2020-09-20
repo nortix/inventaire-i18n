@@ -123,6 +123,7 @@
   "report_an_error_in_entity_data": "Laporkan kesalahan pada data jika anda tidak tahu bagaimana cara memperbaikinya",
   "request_new_token": "minta kesempatan untuk me-reset kata sandi anda",
   "scanner_disabled_tip_2": "membutuhkan sebuah kamera dan [peramban modern](https://www.mozilla.org/firefox)",
+  "search_verb": null,
   "see_all_work_editions": "lihat semua edisi dari karya **%{label}**",
   "see_on_website": "lihat di %{website}",
   "selling_personalized": "%{username} sedang menjual ini",

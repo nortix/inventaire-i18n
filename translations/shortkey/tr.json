@@ -123,6 +123,7 @@
   "report_an_error_in_entity_data": "Nasıl düzeltileceğini bilmiyorsanız, verilerde bir hata sinyali verin",
   "request_new_token": "şifrenizi sıfırlamak için yeni bir istekte bulunun",
   "scanner_disabled_tip_2": "Bir kamera ve bir [modern tarayıcı](https://www.mozilla.org/firefox) gerektirir",
+  "search_verb": null,
   "see_all_work_editions": null,
   "see_on_website": "%{website} üzerinde gör",
   "selling_personalized": "%{username} bunu satıyor",
