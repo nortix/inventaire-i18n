@@ -40,7 +40,7 @@
   "email_wasnt_verified": "**あなたのメールは認証されませんでした。** <br> メールボックスに認証メールが見つからない場合は、次のボタンをクリックして新しいリクエストを送信してください：",
   "exchanges_manager_welcome_text": "ここはあなたが送受信した本のリクエストが表示される場所です。<br>本のリクエストを送る場合は、本のページに行って「リクエストを送信」をクリックしてください",
   "exchanges_manager_welcome_title": "取引マネージャへようこそ！",
-  "existing_entity_items": "あなたの書庫にある所有数： [%{count}](%{pathname})",
+  "existing_entity_items": "あなたの書庫にある所有数： [%{smart_count}](%{pathname})",
   "failing_scan_tip": "スキャナがコードバーを認識しづらい場合は、光量が十分でないか、カメラの性能が不足している場合があります",
   "feedback_intro": "バグレポート、絶対に欲しい機能、そしてもしかしたら単に愛を贈りたい？ここではそれができます！",
   "feedback_title": "フィードバックを送る",

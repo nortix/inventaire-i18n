@@ -40,7 +40,7 @@
   "email_wasnt_verified": null,
   "exchanges_manager_welcome_text": "Aquí és on es mostraran les peticions de llibres que envies o reps. Per enviar una petició de llibre, ves a la pàgina del llibre i clica a \"envia una petició\"",
   "exchanges_manager_welcome_title": "Benvingut al gestor de transaccions!",
-  "existing_entity_items": "ja tens [%{count} al teu inventari](%{pathname})",
+  "existing_entity_items": "ja tens [%{smart_count} al teu inventari](%{pathname})",
   "failing_scan_tip": null,
   "feedback_intro": "Reportar un error, una funcionalitat que necessites absolutament, o potser només vols enviar amor? Ho pots fer aquí! ",
   "feedback_title": "envia feedback",

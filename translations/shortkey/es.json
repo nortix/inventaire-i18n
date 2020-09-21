@@ -40,7 +40,7 @@
   "email_wasnt_verified": "**su correo electrónico no fue verificado.** <br> Si no puede encontrar el correo electrónico de verificación en su casilla, usted puede solicitar uno nuevo haciendo clic en el siguiente botón:",
   "exchanges_manager_welcome_text": "Aquí es donde las solicitudes de libros que envie o reciba serán exhibidas.<br>Para enviar una solicitud de un libro, dirijase a la página del libro y haga clic sobre \"enviar una solicitud\"",
   "exchanges_manager_welcome_title": "¡Bienvenido al administrador de transacciones!",
-  "existing_entity_items": "usted ya tiene [%{count} en su inventario](%{pathname})",
+  "existing_entity_items": "usted ya tiene [%{smart_count} en su inventario](%{pathname})",
   "failing_scan_tip": "Si el scanner tiene dificultades en encontrar el código de barras, podría deberse a que la luz no es la adecuada o que la cámara no es lo suficientemente buena",
   "feedback_intro": "¿Un error que reportar, una funcionalidad que usted necesita perentoriamente, o tal vez solo quiere manifestar su aprecio? ¡Todo eso pueed hacer aquí!",
   "feedback_title": "envíe sus impresiones",

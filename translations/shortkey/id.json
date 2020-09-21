@@ -40,7 +40,7 @@
   "email_wasnt_verified": "**surel anda belum terverifikasi.** <br> jika anda tidak dapat menemukan surel verifikasi di kotak surel anda, anda dapat meminta dikirim ulang dengan meng-klik pada tombol berikut:",
   "exchanges_manager_welcome_text": "Di sinilah permintaan buku yang Anda kirim atau terima akan ditampilkan.<br>Untuk mengirim permintaan buku, buka halaman buku dan klik \"kirim permintaan\"",
   "exchanges_manager_welcome_title": "Selamat datang di pengelolaan transaksi!",
-  "existing_entity_items": "anda sudah memiliki [%{count} di inventori anda](%{pathname})",
+  "existing_entity_items": "anda sudah memiliki [%{smart_count} di inventori anda](%{pathname})",
   "failing_scan_tip": "Jika pemindai mengalami kesulitan untuk menemukan kode batang, mungkin saja cahaya sekitar tidak cukup terang atau kameranya tidak cukup bagus",
   "feedback_intro": "Ada kutu yang ingin dilaporkan, fungsionalitas yang anda sangat butuhkan, atau mungkin anda sekadar ingin mengirimkan kasih sayang? Anda dapat melakukannya di sini!",
   "feedback_title": "kirim umpan balik",
