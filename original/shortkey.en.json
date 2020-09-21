@@ -40,7 +40,7 @@
   "email_wasnt_verified": "**your email wasn't verified.** <br> If you can't find the verification email in your mailbox, you can request a new one by clicking the following button:",
   "exchanges_manager_welcome_text": "This is where the books requests you send or receive will be displayed.<br>To send a book request, go to the book's page and click on \"send a request\"",
   "exchanges_manager_welcome_title": "Welcome to the transactions manager!",
-  "existing_entity_items": "you already have [%{count} in your inventory](%{pathname})",
+  "existing_entity_items": "you already have [%{smart_count} in your inventory](%{pathname})",
   "failing_scan_tip": "if the scanner has difficulties to find the codebar, it might be that the light isn't adequate or that the camera isn't good enough",
   "feedback_intro": "A bug to report, a functionality that you absolutely need, or maybe you just want to send love? You can do that here!",
   "feedback_title": "send feedback",
