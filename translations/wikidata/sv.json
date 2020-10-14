@@ -40,11 +40,11 @@
   "P1680": "undertitel",
   "P2002": "Twitterkonto",
   "P2003": "Instagramkonto",
-  "P2013": "Facebook-ID",
-  "P2397": "Youtube-kanal-ID",
+  "P2013": "Facebook-konto",
+  "P2397": "kanal-ID på Youtube",
   "P2679": "författare till förord",
   "P2680": "författare till efterord",
   "P3035": "ISBN-prefix",
   "P4033": "Mastodonadress",
-  "P6338": "kolorist"
+  "P6338": "färgläggare"
 }
