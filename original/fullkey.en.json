@@ -575,5 +575,6 @@
   "P921": "main subject",
   "P1412": "language of expression",
   "P1476": "original title",
-  "P2635": "number of volumes"
+  "P2635": "number of volumes",
+  "invp:P2": "cover image"
 }
