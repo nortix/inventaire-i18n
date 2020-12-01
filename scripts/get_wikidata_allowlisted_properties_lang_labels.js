@@ -26,8 +26,9 @@ const getData = async () => {
 const prepareForSave = allProperties => {
   for (const propertyId in allProperties) {
     const { labels } = allProperties[propertyId]
-    for (const lang in labels) {
-      labelPerLanguage[lang][propertyId] = labels[lang].value
+    for (const lang of languages) {
+      const label = labels[lang] != null ? labels[lang].value : null
+      labelPerLanguage[lang][propertyId] = label
     }
   }
 }

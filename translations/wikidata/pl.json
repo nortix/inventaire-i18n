@@ -42,11 +42,13 @@
   "P941": "zainspirowane przez",
   "P957": "ISBN-10",
   "P1006": "identyfikator NTA",
+  "P1025": null,
   "P1044": "SWB",
   "P1066": "uczył się u",
   "P1085": "identyfikator LibraryThing",
   "P1104": "liczba stron",
   "P1143": "identyfikator BN (Argentyna)",
+  "P1182": null,
   "P1274": "identyfikator tytułu ISFDB",
   "P1292": "identyfikator DNB",
   "P1433": "opublikowano w",
@@ -67,6 +69,7 @@
   "P2963": "identyfikator autora w GoodReads",
   "P2969": "identyfikator książki w GoodReads",
   "P3035": "prefiks wydawcy w ISBN",
+  "P3184": null,
   "P3630": "identyfikator autora w Babelio",
   "P3631": "identyfikator pracy w Babelio",
   "P4033": "adres Mastodon",
@@ -74,5 +77,9 @@
   "P4087": "identyfikator mangi w MyAnimeList",
   "P4285": "identyfikator  osoby w theses.fr",
   "P5331": "identyfikator pracy w OCLC",
-  "P5361": "identyfikator osoby w BNB"
+  "P5361": "identyfikator osoby w BNB",
+  "P5491": null,
+  "P5571": null,
+  "P6338": null,
+  "P7400": null
 }

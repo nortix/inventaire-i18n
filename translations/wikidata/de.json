@@ -73,8 +73,13 @@
   "P3630": "Babelio-Autoren-ID",
   "P3631": "Babelio-Werk-ID",
   "P4033": "Mastodon-Adresse",
+  "P4084": null,
+  "P4087": null,
+  "P4285": null,
   "P5331": "OCLC-Werkkennung",
   "P5361": "BNB Personen-ID",
+  "P5491": null,
+  "P5571": null,
   "P6338": "Colorist",
   "P7400": "LibraryThing-Autorenkennung"
 }
