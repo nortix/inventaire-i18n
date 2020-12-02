@@ -73,13 +73,13 @@
   "P3630": "Babelio-Autoren-ID",
   "P3631": "Babelio-Werk-ID",
   "P4033": "Mastodon-Adresse",
-  "P4084": null,
-  "P4087": null,
-  "P4285": null,
+  "P4084": "MyAnimeList Personen ID",
+  "P4087": "MyAnimeList Manga ID",
+  "P4285": "Theses.fr Personen ID",
   "P5331": "OCLC-Werkkennung",
   "P5361": "BNB Personen-ID",
-  "P5491": null,
-  "P5571": null,
+  "P5491": "BD Gest' Autoren ID",
+  "P5571": "NooSFere Buch ID",
   "P6338": "Colorist",
   "P7400": "LibraryThing-Autorenkennung"
 }
